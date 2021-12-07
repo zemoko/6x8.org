@@ -3,9 +3,17 @@
     {
       "title"    : "Bredele #miam",
       "category" : "trucs-instagrammes",
-      "tags"     : "",
+      "tags"     : "miam, instagram",
       "url"      : "/2021/12/bredele-miam/",
       "date"     : "2021-12-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ma critique de «&nbsp;<strong>Rompre le silence </strong>&nbsp;» de <em>Mechtild Borrmann</em>",
+      "category" : "trucs-critiques",
+      "tags"     : "critique, livre",
+      "url"      : "/2021/12/ma-critique-de-rompre-le-silence-de-mechtild-borrmann/",
+      "date"     : "2021-12-02 00:00:00 +0100"
     } ,
   
     {
@@ -19,7 +27,7 @@
     {
       "title"    : "Calendrier de l’avent, jour 1",
       "category" : "trucs-instagrammes",
-      "tags"     : "",
+      "tags"     : "instagram",
       "url"      : "/2021/12/calendrier-de-l-avent-jour-1/",
       "date"     : "2021-12-01 00:00:00 +0100"
     } ,
