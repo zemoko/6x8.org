@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Lu ailleurs, veille de décembre 2021",
+      "category" : "trucs-de-webmaster",
+      "tags"     : "",
+      "url"      : "/2021/12/lu-ailleurs-veille-de-decembre-2021/",
+      "date"     : "2021-12-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ma critique de «&nbsp;<strong lang=\"en\">Normal People</strong>&nbsp;» de <em>Sally Rooney</em>",
+      "category" : "trucs-critiques",
+      "tags"     : "critique, livre",
+      "url"      : "/2021/12/ma-critique-de-normal-people-de-sally-rooney/",
+      "date"     : "2021-12-26 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Place Saint Etienne #streetart by @stork_pixelart",
       "category" : "trucs-instagrammes",
       "tags"     : "stork7567, streetart, strasbourg",
@@ -146,7 +162,7 @@
   
     {
       "title"    : "LCA x Babylon  13",
-      "category" : "trucs-de-lomographetrucs-de-webmaster",
+      "category" : "trucs-de-lomographe",
       "tags"     : "lomo, LCA",
       "url"      : "/2021/07/lca-x-babylon-13/",
       "date"     : "2021-07-15 00:00:00 +0200"
