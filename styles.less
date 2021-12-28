@@ -40,11 +40,6 @@
 @md-small:            700px;
 @md-xsmall:           500px;
 
-
-:root {
-  color-scheme: light dark;
-}
-
 *, *::before, *::after {
   margin: 0;
   padding: 0;
@@ -408,9 +403,11 @@ nav {
       color: @background2;
     }
     a {
+      color: rgb(0, 0, 238);
       text-decoration: none;
       font-weight: normal;
       &:hover, &:focus {
+        color: @primary;
         text-decoration: underline;
       }
     }
