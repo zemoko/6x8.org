@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://www.6x8.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.6x8.org/" rel="alternate" type="text/html" /><updated>2022-01-01T20:55:37+01:00</updated><id>https://www.6x8.org/feed.xml</id><title type="html">6x8=42</title><subtitle>Les trucs du Moko.</subtitle><entry><title type="html">Bonne année 2022 !</title><link href="https://www.6x8.org/2022/01/bonne-annee/" rel="alternate" type="text/html" title="Bonne année 2022 !" /><published>2022-01-01T00:00:00+01:00</published><updated>2022-01-01T00:00:00+01:00</updated><id>https://www.6x8.org/2022/01/bonne-annee</id><content type="html" xml:base="https://www.6x8.org/2022/01/bonne-annee/">&lt;p&gt;C’est toujours avec un certain plaisir que je profite du passage à &lt;strong&gt;la nouvelle année&lt;/strong&gt; pour vous &lt;strong&gt;la souhaiter bonne&lt;/strong&gt;, certes, mais aussi pour revenir sur l’année passée (et, pour le seconde fois, quelle année !) et pour fignoler une carte de vœux à mon goût.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://www.6x8.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.6x8.org/" rel="alternate" type="text/html" /><updated>2022-01-01T21:08:20+01:00</updated><id>https://www.6x8.org/feed.xml</id><title type="html">6x8=42</title><subtitle>Les trucs du Moko.</subtitle><entry><title type="html">Bonne année 2022 !</title><link href="https://www.6x8.org/2022/01/bonne-annee/" rel="alternate" type="text/html" title="Bonne année 2022 !" /><published>2022-01-01T00:00:00+01:00</published><updated>2022-01-01T00:00:00+01:00</updated><id>https://www.6x8.org/2022/01/bonne-annee</id><content type="html" xml:base="https://www.6x8.org/2022/01/bonne-annee/">&lt;p&gt;C’est toujours avec un certain plaisir que je profite du passage à &lt;strong&gt;la nouvelle année&lt;/strong&gt; pour vous &lt;strong&gt;la souhaiter bonne&lt;/strong&gt;, certes, mais aussi pour revenir sur l’année passée (et, pour le seconde fois, quelle année !) et pour fignoler une carte de vœux à mon goût.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://bonneannee.6x8.org/&quot;&gt;&lt;img src=&quot;images/bonne-annee-2022.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;https://bonneannee.6x8.org/&quot;&gt;https://bonneannee.6x8.org&amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="trucs" /><category term="trucs-de-webmaster" /><summary type="html">C’est toujours avec un certain plaisir que je profite du passage à la nouvelle année pour vous la souhaiter bonne, certes, mais aussi pour revenir sur l’année passée (et, pour le seconde fois, quelle année !) et pour fignoler une carte de vœux à mon goût.</summary></entry><entry><title type="html">Bilan ludique de 2021</title><link href="https://www.6x8.org/2022/01/bilan-ludique-2021/" rel="alternate" type="text/html" title="Bilan ludique de 2021" /><published>2022-01-01T00:00:00+01:00</published><updated>2022-01-01T00:00:00+01:00</updated><id>https://www.6x8.org/2022/01/bilan-ludique-2021</id><content type="html" xml:base="https://www.6x8.org/2022/01/bilan-ludique-2021/">&lt;p&gt;Pour la 4&lt;sup&gt;e&lt;/sup&gt; année consécutive, c’est l’heure de mon &lt;strong&gt;Bilan ludique&lt;/strong&gt; (initialement, c’est une idée que j’ai piquée à Soizic, alias &lt;a href=&quot;http://des-en-mousse.com/&quot;&gt;Dés en mousse&lt;/a&gt;).&lt;/p&gt;
 
@@ -22,7 +22,7 @@
   &lt;li&gt;Philibert n’est jamais bien loin à Strasbourg, donc on va dire que, encore une fois, &lt;em&gt;quelques&lt;/em&gt; nouveaux jeux ont rejoint notre collection. Néanmoins, le top sur l’année reste composé d’&lt;strong&gt;un bon mix entre anciens et nouveaux jeux&lt;/strong&gt;, &lt;strong&gt;entre petits jeux rapides et jeux plus expertset plus longs&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;table class=&quot;table-charts bar&quot; style=&quot;--scale: 40&quot;&gt;
+&lt;table class=&quot;table-charts bar&quot; style=&quot;--scale: 60&quot;&gt;
   &lt;caption&gt;Top des jeux joués&lt;/caption&gt;
   &lt;thead class=&quot;sr-only&quot;&gt;
     &lt;tr&gt;
@@ -155,7 +155,7 @@ Romane 65 13&lt;/p&gt;
   &lt;li&gt;La tendance jeu en famille, élargie, est toujours là : presque 40% de mes parties ont été jouées avec Mathias, 34% avec Mathias, 16% avec Mathias et 13% avec Romane… mais aussi 27% avec ma mère, 19% avec ma soeur et 15% avec ma nièce.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;table class=&quot;table-charts pie&quot;&gt;
+&lt;table class=&quot;table-charts bar&quot; style=&quot;--scale: 200&quot;&gt;
   &lt;caption&gt;J'ai joué avec...&lt;/caption&gt;
   &lt;thead class=&quot;sr-only&quot;&gt;
     &lt;tr&gt;
@@ -166,27 +166,27 @@ Romane 65 13&lt;/p&gt;
   &lt;tbody&gt;
     &lt;tr style=&quot;--color: purple; --term: 'Mathias';&quot;&gt;
       &lt;th scope=&quot;row&quot;&gt;Mathias&lt;/th&gt;
-      &lt;td style=&quot;--value: 198; --start: 0; &quot;&gt;39 %&lt;/td&gt;
+      &lt;td style=&quot;--value: 198&quot;&gt;&lt;span&gt;198&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr style=&quot;--color: navy; --term: 'Samuel';&quot;&gt;
       &lt;th scope=&quot;row&quot;&gt;Samuel&lt;/th&gt;
-      &lt;td style=&quot;--value: 196; --start: 3198; &quot;&gt;34 %&lt;/td&gt;
+      &lt;td style=&quot;--value: 196&quot;&gt;&lt;span&gt;196&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr style=&quot;--color: mediumvioletred; --term: 'Brigitte';&quot;&gt;
       &lt;th scope=&quot;row&quot;&gt;Brigitte&lt;/th&gt;
-      &lt;td style=&quot;--value: 138; --start: 394; &quot;&gt;27 %&lt;/td&gt;
+      &lt;td style=&quot;--value: 138&quot;&gt;&lt;span&gt;138&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr style=&quot;--color: pink; --term: 'Sophie';&quot;&gt;
       &lt;th scope=&quot;row&quot;&gt;Sophie&lt;/th&gt;
-      &lt;td style=&quot;--value: 97; --start: 532; &quot;&gt;19 %&lt;/td&gt;
+      &lt;td style=&quot;--value: 97&quot;&gt;&lt;span&gt;97&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr style=&quot;--color: darkorange; --term: 'Julie';&quot;&gt;
       &lt;th scope=&quot;row&quot;&gt;Julie&lt;/th&gt;
-      &lt;td style=&quot;--value: 75; --start: 649; &quot;&gt;15 %&lt;/td&gt;
+      &lt;td style=&quot;--value: 75&quot;&gt;&lt;span&gt;75&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr style=&quot;--color: tomato; --term: 'Romane';&quot;&gt;
       &lt;th scope=&quot;row&quot;&gt;Romane&lt;/th&gt;
-      &lt;td style=&quot;--value: 65; --start: 724; &quot;&gt;12 %&lt;/td&gt;
+      &lt;td style=&quot;--value: 65&quot;&gt;&lt;span&gt;65&lt;/span&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
