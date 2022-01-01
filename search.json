@@ -1,7 +1,15 @@
 [
   
     {
-      "title"    : "Bilan ludique 2021",
+      "title"    : "Bonne année 2022&nbsp;!",
+      "category" : "trucstrucs-de-webmaster",
+      "tags"     : "",
+      "url"      : "/2022/01/bonne-annee/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bilan ludique de 2021",
       "category" : "trucs",
       "tags"     : "boardgames, jeux-de-societe",
       "url"      : "/2022/01/bilan-ludique-2021/",
@@ -438,14 +446,6 @@
       "tags"     : "boardgames, jeux-de-societe",
       "url"      : "/2021/01/bilan-ludique-2020/",
       "date"     : "2021-01-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Bonne année&nbsp;!",
-      "category" : "trucstrucs-de-webmaster",
-      "tags"     : "",
-      "url"      : "/2021/01/bonne-annee/",
-      "date"     : "2021-01-01 00:00:00 +0100"
     } ,
   
     {
