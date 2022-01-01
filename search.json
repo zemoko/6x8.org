@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Bilan ludique 2021",
+      "category" : "trucs",
+      "tags"     : "boardgames, jeux-de-societe",
+      "url"      : "/2022/01/bilan-ludique-2021/",
+      "date"     : "2022-01-01 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Ma critique de «&nbsp;<strong>Shakespeare Antibiographie</strong>&nbsp;» de <em>Bill Bryson</em>",
       "category" : "trucs-critiques",
       "tags"     : "critique, livre",
@@ -30,6 +38,14 @@
       "tags"     : "critique, livre",
       "url"      : "/2021/12/ma-critique-de-normal-people-de-sally-rooney/",
       "date"     : "2021-12-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Get On Board #boardgames #jeuxdesociete",
+      "category" : "trucs-instagrammes",
+      "tags"     : "",
+      "url"      : "/2021/12/get-on-board-boardgames-jeuxdesociete/",
+      "date"     : "2021-12-18 00:00:00 +0100"
     } ,
   
     {
@@ -422,6 +438,14 @@
       "tags"     : "boardgames, jeux-de-societe",
       "url"      : "/2021/01/bilan-ludique-2020/",
       "date"     : "2021-01-02 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bonne année&nbsp;!",
+      "category" : "trucstrucs-de-webmaster",
+      "tags"     : "",
+      "url"      : "/2021/01/bonne-annee/",
+      "date"     : "2021-01-01 00:00:00 +0100"
     } ,
   
     {

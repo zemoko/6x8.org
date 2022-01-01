@@ -1,4 +1,246 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://www.6x8.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.6x8.org/" rel="alternate" type="text/html" /><updated>2021-12-31T16:59:24+01:00</updated><id>https://www.6x8.org/feed.xml</id><title type="html">6x8=42</title><subtitle>Les trucs du Moko.</subtitle><entry><title type="html">Ma critique de « Shakespeare Antibiographie » de Bill Bryson</title><link href="https://www.6x8.org/2021/12/ma-critique-de-shakespeare-antibiographie-de-bill-bryson/" rel="alternate" type="text/html" title="Ma critique de « Shakespeare Antibiographie » de Bill Bryson" /><published>2021-12-31T00:00:00+01:00</published><updated>2021-12-31T00:00:00+01:00</updated><id>https://www.6x8.org/2021/12/ma-critique-de-shakespeare-antibiographie-de-bill-bryson</id><content type="html" xml:base="https://www.6x8.org/2021/12/ma-critique-de-shakespeare-antibiographie-de-bill-bryson/">&lt;p&gt;&lt;img src=&quot;/images/shakespeare.jpg# book2right&quot; alt=&quot;&quot; /&gt;&lt;strong&gt;Tout le monde connait William Shakespeare (1564, 1616)… et pourtant.&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://www.6x8.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.6x8.org/" rel="alternate" type="text/html" /><updated>2022-01-01T11:25:57+01:00</updated><id>https://www.6x8.org/feed.xml</id><title type="html">6x8=42</title><subtitle>Les trucs du Moko.</subtitle><entry><title type="html">Bilan ludique 2021</title><link href="https://www.6x8.org/2022/01/bilan-ludique-2021/" rel="alternate" type="text/html" title="Bilan ludique 2021" /><published>2022-01-01T00:00:00+01:00</published><updated>2022-01-01T00:00:00+01:00</updated><id>https://www.6x8.org/2022/01/bilan-ludique-2021</id><content type="html" xml:base="https://www.6x8.org/2022/01/bilan-ludique-2021/">&lt;p&gt;Pour la 4&lt;sup&gt;e&lt;/sup&gt; année consécutive, c’est l’heure de mon &lt;strong&gt;Bilan ludique&lt;/strong&gt; (initialement, c’est une idée que j’ai piquée à Soizic, alias &lt;a href=&quot;http://des-en-mousse.com/&quot;&gt;Dés en mousse&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Et, encore une fois, grace à mon application &lt;a href=&quot;https://www.bgstatsapp.com/&quot;&gt;BG Stats&lt;/a&gt; sur laquelle je note toutes mes parties, je peux faire facilement un retour sur mon année ludique 2021 :)&lt;/p&gt;
+
+&lt;h2 id=&quot;bilan-de-lannée--511parties-plus-71parties-sur-bga-mais-ce-sont-des-parties-en-ligne-je-ne-les-compte-pas-dans-mon-bilan&quot;&gt;Bilan de l’année : &lt;strong&gt;511 parties&lt;/strong&gt; (plus 71 parties sur &lt;a href=&quot;https://boardgamearena.com/&quot;&gt;&lt;abbr&gt;BGA&lt;/abbr&gt;&lt;/a&gt; mais ce sont des parties en ligne, je ne les compte pas dans mon Bilan)&lt;/h2&gt;
+
+&lt;p&gt;(l’an dernier, c’était &lt;em&gt;600&lt;/em&gt;, mais on avait été confinés 2 fois…)&lt;/p&gt;
+
+&lt;h2 id=&quot;à-quoi-jai-joué&quot;&gt;À quoi j’ai joué ?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;151 jeux&lt;/strong&gt; différents (&lt;em&gt;152 l’an dernier&lt;/em&gt;)
+    &lt;ul&gt;
+      &lt;li&gt;68 pour une seule partie&lt;/li&gt;
+      &lt;li&gt;7 dépassent les 10 parties&lt;/li&gt;
+      &lt;li&gt;et &lt;strong&gt;2 seulement qui dépassent les 25 parties&lt;/strong&gt;…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ma première partie de 2021, c’était &lt;strong&gt;L’île des chats&lt;/strong&gt;, la dernière &lt;strong&gt;Codex Naturalis&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Philibert n’est jamais bien loin à Strasbourg, donc on va dire que, encore une fois, &lt;em&gt;quelques&lt;/em&gt; nouveaux jeux ont rejoint notre collection. Néanmoins, le top sur l’année reste composé d’&lt;strong&gt;un bon mix entre anciens et nouveaux jeux&lt;/strong&gt;, &lt;strong&gt;entre petits jeux rapides et jeux plus expertset plus longs&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table class=&quot;table-charts bar&quot; style=&quot;--scale: 40&quot;&gt;
+  &lt;caption&gt;Top des jeux joués&lt;/caption&gt;
+  &lt;thead class=&quot;sr-only&quot;&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;th scope=&quot;col&quot;&gt;Nb de parties&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Yams&lt;/th&gt;
+&lt;td style=&quot;--value: 54;&quot;&gt;&lt;span&gt;54&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Qwixx&lt;/th&gt;
+&lt;td style=&quot;--value: 53;&quot;&gt;&lt;span&gt;53&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Retro Loonacy&lt;/th&gt;
+&lt;td style=&quot;--value: 18;&quot;&gt;&lt;span&gt;18&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Trek 12&lt;/th&gt;
+&lt;td style=&quot;--value: 12;&quot;&gt;&lt;span&gt;12&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Tapestry&lt;/th&gt;
+&lt;td style=&quot;--value: 11;&quot;&gt;&lt;span&gt;11&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Turbulences&lt;/th&gt;
+&lt;td style=&quot;--value: 11;&quot;&gt;&lt;span&gt;11&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Potion Explosion&lt;/th&gt;
+&lt;td style=&quot;--value: 11;&quot;&gt;&lt;span&gt;11&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;7 Wonders Architecte&lt;/th&gt;
+&lt;td style=&quot;--value: 11;&quot;&gt;&lt;span&gt;11&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Splendor Marvel&lt;/th&gt;
+&lt;td style=&quot;--value: 10;&quot;&gt;&lt;span&gt;10&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Wild Space&lt;/th&gt;
+&lt;td style=&quot;--value: 9;&quot;&gt;&lt;span&gt;9&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Pillards de la Mer du Nord&lt;/th&gt;
+&lt;td style=&quot;--value: 8;&quot;&gt;&lt;span&gt;8&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Everdell&lt;/th&gt;
+&lt;td style=&quot;--value: 8;&quot;&gt;&lt;span&gt;8&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Codex Naturalis&lt;/th&gt;
+&lt;td style=&quot;--value: 8;&quot;&gt;&lt;span&gt;8&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Les aventuriers du rail&lt;/th&gt;
+&lt;td style=&quot;--value: 8;&quot;&gt;&lt;span&gt;8&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Vicomtes des Royaumes de l'Ouest&lt;/th&gt;
+&lt;td style=&quot;--value: 7;&quot;&gt;&lt;span&gt;7&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Get on board&lt;/th&gt;
+&lt;td style=&quot;--value: 7;&quot;&gt;&lt;span&gt;7&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Kingdomino&lt;/th&gt;
+&lt;td style=&quot;--value: 7;&quot;&gt;&lt;span&gt;7&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Botanik&lt;/th&gt;
+&lt;td style=&quot;--value: 6;&quot;&gt;&lt;span&gt;6&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Explorateurs de la Mer du Nord&lt;/th&gt;
+&lt;td style=&quot;--value: 5;&quot;&gt;&lt;span&gt;5&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Familou&lt;/th&gt;
+&lt;td style=&quot;--value: 5;&quot;&gt;&lt;span&gt;5&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Paper Dungeons&lt;/th&gt;
+&lt;td style=&quot;--value: 5;&quot;&gt;&lt;span&gt;5&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;The crew&lt;/th&gt;
+&lt;td style=&quot;--value: 5;&quot;&gt;&lt;span&gt;5&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Lucky numbers&lt;/th&gt;
+&lt;td style=&quot;--value: 5;&quot;&gt;&lt;span&gt;5&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;&lt;em&gt;Les autres jeux&lt;/em&gt;&lt;/th&gt;
+&lt;td style=&quot;--value: 220;&quot;&gt;&lt;span&gt;220&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Le &lt;strong&gt;Yams&lt;/strong&gt; est indétrônable (cette année, si jamais n’oubliez pas que &lt;a href=&quot;https://yams.6x8.org/&quot;&gt;la grille &lt;strong&gt;4 colonnes&lt;/strong&gt; en ligne&lt;/a&gt;, pour l’imprimer ou pour noter sur le téléphone, c’est pratique).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Retro Loonay&lt;/strong&gt; et &lt;strong&gt;7 Wonders Architecte&lt;/strong&gt; (qui est pourtant sorti tard dans l’année) ont remplacé &lt;strong&gt;Dragomino&lt;/strong&gt; comme jeu familial par excellence.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tapestry&lt;/strong&gt; est le gros jeu qui sort le plus. Vivement la sortie de la nouvelle extesion ^^.&lt;/li&gt;
+  &lt;li&gt;Nous avons maintenant toute la série des &lt;strong&gt;Mers du Nord&lt;/strong&gt; et des &lt;strong&gt;Royaumes de l’Ouest&lt;/strong&gt;. &lt;strong&gt;Pillards&lt;/strong&gt; reste celui qui sort le plus mais &lt;strong&gt;Vicomtes&lt;/strong&gt;, &lt;strong&gt;Paladins&lt;/strong&gt;  et &lt;strong&gt;Explorateurs&lt;/strong&gt; sont vraiment bons (et il nous reste à essayé &lt;strong&gt;Architectes&lt;/strong&gt;, le dernier acheté).&lt;/li&gt;
+  &lt;li&gt;Enfin, mention spéciale pour &lt;strong&gt;Turbulences&lt;/strong&gt; et &lt;strong&gt;Codex Naturalis&lt;/strong&gt; mes coups de cœur esthétiques de 2021 !&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bref, &lt;strong&gt;une année ludique atypique mais une bien belle année&lt;/strong&gt;, avec des classiques qui fonctionnent toujours aussi bien mais aussi quelques nouveaux très bons jeux.&lt;/p&gt;
+
+&lt;h2 id=&quot;avec-qui-jai-joué&quot;&gt;Avec qui j’ai joué ?&lt;/h2&gt;
+
+&lt;p&gt;504
+Mathias 198 39
+Samuel 196 34
+Brigitte 138 27
+Sophie 97 19
+Julie 75 15
+Romane 65 13&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;J’ai joué avec &lt;strong&gt;29 personnes différentes&lt;/strong&gt; (l’an dernier, c’était &lt;em&gt;30&lt;/em&gt;, on va dire que c’est stable)&lt;/li&gt;
+  &lt;li&gt;La tendance jeu en famille, élargie, est toujours là : presque 40% de mes parties ont été jouées avec Mathias, 34% avec Mathias, 16% avec Mathias et 13% avec Romane… mais aussi 27% avec ma mère, 19% avec ma soeur et 15% avec ma nièce.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table class=&quot;table-charts pie&quot;&gt;
+  &lt;caption&gt;J'ai joué avec...&lt;/caption&gt;
+  &lt;thead class=&quot;sr-only&quot;&gt;
+    &lt;tr&gt;
+      &lt;th scope=&quot;col&quot;&gt;Qui&amp;nbsp;?&lt;/th&gt;
+      &lt;th scope=&quot;col&quot;&gt;Combien de parties&amp;nbsp;?&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr style=&quot;--color: purple; --term: 'Mathias';&quot;&gt;
+      &lt;th scope=&quot;row&quot;&gt;Mathias&lt;/th&gt;
+      &lt;td style=&quot;--value: 198; --start: 0; &quot;&gt;39 %&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;--color: navy; --term: 'Samuel';&quot;&gt;
+      &lt;th scope=&quot;row&quot;&gt;Samuel&lt;/th&gt;
+      &lt;td style=&quot;--value: 196; --start: 3198; &quot;&gt;34 %&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;--color: mediumvioletred; --term: 'Brigitte';&quot;&gt;
+      &lt;th scope=&quot;row&quot;&gt;Brigitte&lt;/th&gt;
+      &lt;td style=&quot;--value: 138; --start: 394; &quot;&gt;27 %&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;--color: pink; --term: 'Sophie';&quot;&gt;
+      &lt;th scope=&quot;row&quot;&gt;Sophie&lt;/th&gt;
+      &lt;td style=&quot;--value: 97; --start: 532; &quot;&gt;19 %&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;--color: darkorange; --term: 'Julie';&quot;&gt;
+      &lt;th scope=&quot;row&quot;&gt;Julie&lt;/th&gt;
+      &lt;td style=&quot;--value: 75; --start: 649; &quot;&gt;15 %&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;--color: tomato; --term: 'Romane';&quot;&gt;
+      &lt;th scope=&quot;row&quot;&gt;Romane&lt;/th&gt;
+      &lt;td style=&quot;--value: 65; --start: 724; &quot;&gt;12 %&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;où-ai-je-joué&quot;&gt;Où ai-je joué ?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;J’ai joué avec &lt;strong&gt;333 parties à la maison&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Le reste, c’est souvent en famille aussi : à Royan ou chez ma soeur,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;L’&lt;a href=&quot;https://flic.kr/p/btsWuD&quot;&gt;image d’entête&lt;/a&gt; est de &lt;a href=&quot;https://www.flickr.com/photos/glodjib/&quot;&gt;Guido Gloor Modjib&lt;/a&gt;. Elle est en licence &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-nd/2.0/&quot;&gt;CC BY-NC-ND 2.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;style&gt;
+@media screen and (min-width: 30em) {
+  .table-charts.pie td:before {
+    --zoom: .75;
+    --part: calc(var(--value) * 3.6);
+    --main-angle: calc(var(--part) -(90 *(var(--gt-25, 0) + var(--gt-50, 0) + var(--gt-75, 0))));
+    --β: calc(var(--main-angle) * 0.01745329251);
+    --α: calc((90 - var(--main-angle)) * 0.01745329251);
+    --sin-term-β-1: var(--β);
+    --sin-term-β-2: calc((var(--β) * var(--β) * var(--β)) / 6);
+    --sin-term-β-3: calc((var(--β) * var(--β) * var(--β) * var(--β) * var(--β)) / 120);
+    --sin-term-β-4: calc((var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β)) / 5040);
+    --sin-term-β-5: calc((var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β)) / 362880);
+    --sin-β: calc(var(--sin-term-β-1) - var(--sin-term-β-2) + var(--sin-term-β-3) - var(--sin-term-β-4) + var(--sin-term-β-5));
+    --sin-term-α-1: var(--α);
+    --sin-term-α-2: calc((var(--α) * var(--α) * var(--α)) / 6);
+    --sin-term-α-3: calc((var(--α) * var(--α) * var(--α) * var(--α) * var(--α)) / 120);
+    --sin-term-α-4: calc((var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α)) / 5040);
+    --sin-term-α-5: calc((var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α)) / 362880);
+    --sin-α: calc(var(--sin-term-α-1) - var(--sin-term-α-2) + var(--sin-term-α-3) - var(--sin-term-α-4) + var(--sin-term-α-5));
+    --B: calc(var(--hypo) * var(--sin-β));
+    --A: calc(var(--hypo) * var(--sin-α));
+    --pos-B: calc((var(--B) * 100 / var(--hypo)) / 2);
+    --pos-A: calc((var(--A) * 100 / var(--hypo)) / 2);
+    background: var(--color, currentColor);
+    -webkit-clip-path: polygon(50% 50%, 50% 0%, 100% 0%, calc(50% +(var(--pos-B) * 1% * var(--lt-25, 1)) +(var(--gt-25, 0) * 50%)) calc(50% -(var(--pos-A) * 1% * var(--lt-25, 1))), calc(50% +(var(--gt-25, 0) * 50%)) calc(50% +(var(--gt-25, 0) * 50%)), calc(50% +(var(--pos-A) * 1% * var(--lt-50, 1)) +(var(--gt-50, 0) * 50%)) calc(50% +(var(--pos-B) * 1% * var(--lt-50, 1)) +(var(--gt-50, 0) * 50%)), calc(50% -(var(--gt-50, 0) * 50%)) calc(50% +(var(--gt-50, 0) * 50%)), calc(50% -(var(--pos-B) * 1% * var(--lt-75, 1)) -(var(--gt-75, 0) * 50%)) calc(50% +(var(--pos-A) * 1% * var(--lt-75, 1))), calc(50% -(var(--gt-75, 0) * 50%)) calc(50% -(var(--gt-75, 0) * 50%)), calc(50% -(var(--pos-A) * 1% * var(--gt-75, 0))) calc(50% -(var(--pos-B) * 1% * var(--gt-75, 0))), 50% 50%);
+    clip-path: polygon(50% 50%, 50% 0%, 100% 0%, calc(50% +(var(--pos-B) * 1% * var(--lt-25, 1)) +(var(--gt-25, 0) * 50%)) calc(50% -(var(--pos-A) * 1% * var(--lt-25, 1))), calc(50% +(var(--gt-25, 0) * 50%)) calc(50% +(var(--gt-25, 0) * 50%)), calc(50% +(var(--pos-A) * 1% * var(--lt-50, 1)) +(var(--gt-50, 0) * 50%)) calc(50% +(var(--pos-B) * 1% * var(--lt-50, 1)) +(var(--gt-50, 0) * 50%)), calc(50% -(var(--gt-50, 0) * 50%)) calc(50% +(var(--gt-50, 0) * 50%)), calc(50% -(var(--pos-B) * 1% * var(--lt-75, 1)) -(var(--gt-75, 0) * 50%)) calc(50% +(var(--pos-A) * 1% * var(--lt-75, 1))), calc(50% -(var(--gt-75, 0) * 50%)) calc(50% -(var(--gt-75, 0) * 50%)), calc(50% -(var(--pos-A) * 1% * var(--gt-75, 0))) calc(50% -(var(--pos-B) * 1% * var(--gt-75, 0))), 50% 50%);
+    content: '';
+    height: var(--side);
+    -webkit-mask-image: radial-gradient(circle at center, #fff 0%, #fff calc(var(--side) / 2), transparent calc(var(--side) / 2));
+    mask-image: radial-gradient(circle at center, #fff 0%, #fff calc(var(--side) / 2), transparent calc(var(--side) / 2));
+    -webkit-transform: translate3d(-50%, -50%, 0) rotate(var(--position)) scale(var(--zoom));
+    transform: translate3d(-50%, -40%, 0) rotate(var(--position)) scale(var(--zoom));
+    transition: -webkit-transform 0.2s cubic-bezier(0.5, 0, 0.5, 1);
+    transition: transform 0.2s cubic-bezier(0.5, 0, 0.5, 1);
+    transition: transform 0.2s cubic-bezier(0.5, 0, 0.5, 1), -webkit-transform 0.2s cubic-bezier(0.5, 0, 0.5, 1);
+    width: var(--side);
+    will-change:transform;
+  }
+}
+&lt;/style&gt;</content><author><name></name></author><category term="trucs" /><category term="boardgames" /><category term="jeux-de-societe" /><summary type="html">Pour la 4e année consécutive, c’est l’heure de mon Bilan ludique (initialement, c’est une idée que j’ai piquée à Soizic, alias Dés en mousse).</summary></entry><entry><title type="html">Ma critique de « Shakespeare Antibiographie » de Bill Bryson</title><link href="https://www.6x8.org/2021/12/ma-critique-de-shakespeare-antibiographie-de-bill-bryson/" rel="alternate" type="text/html" title="Ma critique de « Shakespeare Antibiographie » de Bill Bryson" /><published>2021-12-31T00:00:00+01:00</published><updated>2021-12-31T00:00:00+01:00</updated><id>https://www.6x8.org/2021/12/ma-critique-de-shakespeare-antibiographie-de-bill-bryson</id><content type="html" xml:base="https://www.6x8.org/2021/12/ma-critique-de-shakespeare-antibiographie-de-bill-bryson/">&lt;p&gt;&lt;img src=&quot;/images/shakespeare.jpg# book2right&quot; alt=&quot;&quot; /&gt;&lt;strong&gt;Tout le monde connait William Shakespeare (1564, 1616)… et pourtant.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Il a écrit d’innombrables pièces, &lt;strong&gt;plus de 900 000 mots&lt;/strong&gt; à vraie dire. Il en a même inventé plus de 2000 qui sont aujourd’hui entré dans l’anglais de tous les jours… &lt;strong&gt;et pourtant, nous n’en possédons que 14 écrits de sa main&lt;/strong&gt; : 6 signatures (avec son nom et son prénom), et la formule « Par moi » dans son testament.&lt;/p&gt;
 
@@ -144,7 +386,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Retrouvez &lt;a href=&quot;https://www.senscritique.com/livre/Normal_People/critique/261257012&quot;&gt;cette critique&lt;/a&gt; sur &lt;strong&gt;Sens Critique&lt;/strong&gt; où vous pouvez aussi &lt;a href=&quot;http://www.senscritique.com/Arnaud_Malon&quot;&gt;me retrouver&lt;/a&gt; !&lt;/p&gt;</content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><summary type="html">« 1 million d’exemplaires vendus », une série TV nominée aux Golden Globes 2021. Tout pour vous interpeller et vous happer (ou, à l’inverse, vous faire fuir, c’est selon).</summary></entry><entry><title type="html">Place Saint Etienne #streetart by @stork_pixelart</title><link href="https://www.6x8.org/2021/12/place-saint-etienne-streetart-by-stork-pixelart/" rel="alternate" type="text/html" title="Place Saint Etienne #streetart by @stork_pixelart" /><published>2021-12-16T00:00:00+01:00</published><updated>2021-12-16T00:00:00+01:00</updated><id>https://www.6x8.org/2021/12/place-saint-etienne-streetart-by-stork-pixelart</id><content type="html" xml:base="https://www.6x8.org/2021/12/place-saint-etienne-streetart-by-stork-pixelart/">&lt;p&gt;Quand j’étais parisien, je chassais les &lt;a href=&quot;http://sitofotos.6x8.org/index.php?/category/2&quot;&gt;Space invaders&lt;/a&gt;. Maintenant que je suis strasbourgeois, je chasse les &lt;a href=&quot;https://www.6x8.org/tag/stork7567/&quot;&gt;cigognes&lt;/a&gt; et je ne regrette rien (ni forcément Paris, ni forcément les œuvres d’Invader). Vous aussi, partez &lt;a href=&quot;https://www.6x8.org/2019/11/a-la-chasse-au-stork/&quot;&gt;à la chasse au Stork&lt;/a&gt; !&lt;/p&gt;</content><author><name></name></author><category term="trucs-instagrammes" /><category term="stork7567" /><category term="streetart" /><category term="strasbourg" /><summary type="html">Quand j’étais parisien, je chassais les Space invaders. Maintenant que je suis strasbourgeois, je chasse les cigognes et je ne regrette rien (ni forcément Paris, ni forcément les œuvres d’Invader). Vous aussi, partez à la chasse au Stork !</summary></entry><entry><title type="html">Ma critique de « Le corbeau d’Oxford » de Faith Martin</title><link href="https://www.6x8.org/2021/12/ma-critique-de-le-corbeau-d-oxford-de-faith-martin/" rel="alternate" type="text/html" title="Ma critique de « Le corbeau d’Oxford » de Faith Martin" /><published>2021-12-16T00:00:00+01:00</published><updated>2021-12-16T00:00:00+01:00</updated><id>https://www.6x8.org/2021/12/ma-critique-de-le-corbeau-d-oxford-de-faith-martin</id><content type="html" xml:base="https://www.6x8.org/2021/12/ma-critique-de-le-corbeau-d-oxford-de-faith-martin/">&lt;p&gt;&lt;img src=&quot;/images/le-corbeau-d-oxford.jpg# book2right&quot; alt=&quot;&quot; /&gt;Nous sommes en &lt;strong&gt;1960&lt;/strong&gt;, dans l’&lt;strong&gt;Oxfordshire&lt;/strong&gt;. Sir Marcus Deering, un riche industriel, reçoit des lettres de menaces anonymes. D’abord il n’y croit pas mais les menaces se font plus précises… jusqu’à cette lettre qui menace de tuer son fils, le lendemain à midi. Le jour dit, toute la police est sur le dents… mais il ne se passe rien. Enfin si, un autre jeune homme est retrouvé, assassiné… et ce jeune homme n’est autre que le fils caché de Sir Marcus !&lt;/p&gt;
+&lt;p&gt;Retrouvez &lt;a href=&quot;https://www.senscritique.com/livre/Normal_People/critique/261257012&quot;&gt;cette critique&lt;/a&gt; sur &lt;strong&gt;Sens Critique&lt;/strong&gt; où vous pouvez aussi &lt;a href=&quot;http://www.senscritique.com/Arnaud_Malon&quot;&gt;me retrouver&lt;/a&gt; !&lt;/p&gt;</content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><summary type="html">« 1 million d’exemplaires vendus », une série TV nominée aux Golden Globes 2021. Tout pour vous interpeller et vous happer (ou, à l’inverse, vous faire fuir, c’est selon).</summary></entry><entry><title type="html">Get On Board #boardgames #jeuxdesociete</title><link href="https://www.6x8.org/2021/12/get-on-board-boardgames-jeuxdesociete/" rel="alternate" type="text/html" title="Get On Board #boardgames #jeuxdesociete" /><published>2021-12-18T00:00:00+01:00</published><updated>2021-12-18T00:00:00+01:00</updated><id>https://www.6x8.org/2021/12/get-on-board-boardgames-jeuxdesociete</id><content type="html" xml:base="https://www.6x8.org/2021/12/get-on-board-boardgames-jeuxdesociete/"></content><author><name></name></author><category term="trucs-instagrammes" /><summary type="html"></summary></entry><entry><title type="html">Place Saint Etienne #streetart by @stork_pixelart</title><link href="https://www.6x8.org/2021/12/place-saint-etienne-streetart-by-stork-pixelart/" rel="alternate" type="text/html" title="Place Saint Etienne #streetart by @stork_pixelart" /><published>2021-12-16T00:00:00+01:00</published><updated>2021-12-16T00:00:00+01:00</updated><id>https://www.6x8.org/2021/12/place-saint-etienne-streetart-by-stork-pixelart</id><content type="html" xml:base="https://www.6x8.org/2021/12/place-saint-etienne-streetart-by-stork-pixelart/">&lt;p&gt;Quand j’étais parisien, je chassais les &lt;a href=&quot;http://sitofotos.6x8.org/index.php?/category/2&quot;&gt;Space invaders&lt;/a&gt;. Maintenant que je suis strasbourgeois, je chasse les &lt;a href=&quot;https://www.6x8.org/tag/stork7567/&quot;&gt;cigognes&lt;/a&gt; et je ne regrette rien (ni forcément Paris, ni forcément les œuvres d’Invader). Vous aussi, partez &lt;a href=&quot;https://www.6x8.org/2019/11/a-la-chasse-au-stork/&quot;&gt;à la chasse au Stork&lt;/a&gt; !&lt;/p&gt;</content><author><name></name></author><category term="trucs-instagrammes" /><category term="stork7567" /><category term="streetart" /><category term="strasbourg" /><summary type="html">Quand j’étais parisien, je chassais les Space invaders. Maintenant que je suis strasbourgeois, je chasse les cigognes et je ne regrette rien (ni forcément Paris, ni forcément les œuvres d’Invader). Vous aussi, partez à la chasse au Stork !</summary></entry><entry><title type="html">Ma critique de « Le corbeau d’Oxford » de Faith Martin</title><link href="https://www.6x8.org/2021/12/ma-critique-de-le-corbeau-d-oxford-de-faith-martin/" rel="alternate" type="text/html" title="Ma critique de « Le corbeau d’Oxford » de Faith Martin" /><published>2021-12-16T00:00:00+01:00</published><updated>2021-12-16T00:00:00+01:00</updated><id>https://www.6x8.org/2021/12/ma-critique-de-le-corbeau-d-oxford-de-faith-martin</id><content type="html" xml:base="https://www.6x8.org/2021/12/ma-critique-de-le-corbeau-d-oxford-de-faith-martin/">&lt;p&gt;&lt;img src=&quot;/images/le-corbeau-d-oxford.jpg# book2right&quot; alt=&quot;&quot; /&gt;Nous sommes en &lt;strong&gt;1960&lt;/strong&gt;, dans l’&lt;strong&gt;Oxfordshire&lt;/strong&gt;. Sir Marcus Deering, un riche industriel, reçoit des lettres de menaces anonymes. D’abord il n’y croit pas mais les menaces se font plus précises… jusqu’à cette lettre qui menace de tuer son fils, le lendemain à midi. Le jour dit, toute la police est sur le dents… mais il ne se passe rien. Enfin si, un autre jeune homme est retrouvé, assassiné… et ce jeune homme n’est autre que le fils caché de Sir Marcus !&lt;/p&gt;
 
 &lt;p&gt;L’enquête va être mené par un duo improbable, mais efficace :&lt;/p&gt;
 
@@ -194,16 +436,4 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Retrouvez &lt;a href=&quot;https://www.senscritique.com/livre/D_ailleurs_les_poissons_n_ont_pas_de_pieds/critique/136986018&quot;&gt;cette critique&lt;/a&gt; sur &lt;strong&gt;Sens Critique&lt;/strong&gt; où vous pouvez aussi &lt;a href=&quot;http://www.senscritique.com/Arnaud_Malon&quot;&gt;me retrouver&lt;/a&gt; !&lt;/p&gt;</content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><summary type="html">Voici 2 ans qu’Ari a quitté l’Islande pour le Danemark, abandonnant femme et enfant. Cette rupture, il l’a voulu et mais il la regrette. Mais Ari reçoit une lettre de sa belle-mère et un colis rempli de souvenirs qui le pousse à quitter sa maison d’édition danoise et à revenir au pays.</summary></entry><entry><title type="html">Ma critique de « Rompre le silence  » de Mechtild Borrmann</title><link href="https://www.6x8.org/2021/12/ma-critique-de-rompre-le-silence-de-mechtild-borrmann/" rel="alternate" type="text/html" title="Ma critique de « Rompre le silence  » de Mechtild Borrmann" /><published>2021-12-07T00:00:00+01:00</published><updated>2021-12-07T00:00:00+01:00</updated><id>https://www.6x8.org/2021/12/ma-critique-de-%20rompre-le-silence-de-mechtild-borrmann</id><content type="html" xml:base="https://www.6x8.org/2021/12/ma-critique-de-rompre-le-silence-de-mechtild-borrmann/">&lt;p&gt;&lt;img src=&quot;/images/rompre-le-silence.jpg# book2right&quot; alt=&quot;&quot; /&gt;&lt;strong&gt;L’histoire se passe de nos jours, en Allemagne&lt;/strong&gt;. À la mort de son père, un riche industriel ayant fait fortune après-guerre, Robert Lubitsch trouve une boîte à cigares parmi ses affaires. Dans cette boîte, &lt;strong&gt;une carte d’immatriculation SS au nom d’un inconnu&lt;/strong&gt;, un laissez-passez, un certification de libération d’un camp de prisonnier de guerre, &lt;strong&gt;la photo d’une très belle inconnue&lt;/strong&gt;… Quel rapport avec son père, à la vie si parfaite et à l’histoire si lisse ? &lt;strong&gt;Robert décide d’enquêter pour en savoir plus… sans se douter qu’il va ouvrir la boîte de Pandore.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Les secrets de famille sont toujours une source inépuisable d’inspiration pour les romanciers. Les secrets de famille en temps de guerre le sont encore plus. Les secrets de famille, en temps de guerre, en Allemagne, sont juste du pain bénit… pour les romanciers comme pour nous, leurs lecteurs.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Au cours de l’hiver 1944-1945, nous n’avions pas le temps d’avoir du chagrin, et je pense parfois que c’est là une des tragédies de cette guerre, et peut-être de toutes les guerres. Quand nous n’avons pas le temps d’être en deuil, nous perdons une dimension de notre humanité.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;« Rompre le silence » mêle enquête journaliste et policière, mais c’est aussi un roman historique qui navigue entre passé et présent, et même un roman sur la mémoire. Mémoire familiale, mais aussi mémoire locale d’une petite ville allemande. Bref, &lt;strong&gt;un roman où se croise la petite et la grande histoire&lt;/strong&gt;. Rien de trop facile ou de trop tranché, sans pathos et sans jugement… &lt;strong&gt;c’est un roman remarquable que j’ai aimé et que je conseille&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Retrouvez &lt;a href=&quot;https://www.senscritique.com/livre/Rompre_le_silence/critique/259946750&quot;&gt;cette critique&lt;/a&gt; sur &lt;strong&gt;Sens Critique&lt;/strong&gt; où vous pouvez aussi &lt;a href=&quot;http://www.senscritique.com/Arnaud_Malon&quot;&gt;me retrouver&lt;/a&gt; !&lt;/p&gt;</content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><summary type="html">L’histoire se passe de nos jours, en Allemagne. À la mort de son père, un riche industriel ayant fait fortune après-guerre, Robert Lubitsch trouve une boîte à cigares parmi ses affaires. Dans cette boîte, une carte d’immatriculation SS au nom d’un inconnu, un laissez-passez, un certification de libération d’un camp de prisonnier de guerre, la photo d’une très belle inconnue… Quel rapport avec son père, à la vie si parfaite et à l’histoire si lisse ? Robert décide d’enquêter pour en savoir plus… sans se douter qu’il va ouvrir la boîte de Pandore.</summary></entry><entry><title type="html">Merci #dna #streetart by @stork_pixelart</title><link href="https://www.6x8.org/2021/12/merci-dna-streetart-by-stork-pixelart/" rel="alternate" type="text/html" title="Merci #dna #streetart by @stork_pixelart" /><published>2021-12-07T00:00:00+01:00</published><updated>2021-12-07T00:00:00+01:00</updated><id>https://www.6x8.org/2021/12/merci-dna-streetart-by-stork-pixelart</id><content type="html" xml:base="https://www.6x8.org/2021/12/merci-dna-streetart-by-stork-pixelart/">&lt;p&gt;Quand j’étais parisien, je chassais les &lt;a href=&quot;http://sitofotos.6x8.org/index.php?/category/2&quot;&gt;Space invaders&lt;/a&gt;. Maintenant que je suis strasbourgeois, je chasse les &lt;a href=&quot;https://www.6x8.org/tag/stork7567/&quot;&gt;cigognes&lt;/a&gt; et je ne regrette rien (ni forcément Paris, ni forcément les œuvres d’Invader). Vous aussi, partez &lt;a href=&quot;https://www.6x8.org/2019/11/a-la-chasse-au-stork/&quot;&gt;à la chasse au Stork&lt;/a&gt; !&lt;/p&gt;</content><author><name></name></author><category term="trucs-instagrammes" /><category term="stork7567" /><category term="streetart" /><category term="strasbourg" /><summary type="html">Quand j’étais parisien, je chassais les Space invaders. Maintenant que je suis strasbourgeois, je chasse les cigognes et je ne regrette rien (ni forcément Paris, ni forcément les œuvres d’Invader). Vous aussi, partez à la chasse au Stork !</summary></entry><entry><title type="html">Bredele #miam</title><link href="https://www.6x8.org/2021/12/bredele-miam/" rel="alternate" type="text/html" title="Bredele #miam" /><published>2021-12-04T00:00:00+01:00</published><updated>2021-12-04T00:00:00+01:00</updated><id>https://www.6x8.org/2021/12/bredele-miam</id><content type="html" xml:base="https://www.6x8.org/2021/12/bredele-miam/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="miam" /><category term="instagram" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;Retrouvez &lt;a href=&quot;https://www.senscritique.com/livre/D_ailleurs_les_poissons_n_ont_pas_de_pieds/critique/136986018&quot;&gt;cette critique&lt;/a&gt; sur &lt;strong&gt;Sens Critique&lt;/strong&gt; où vous pouvez aussi &lt;a href=&quot;http://www.senscritique.com/Arnaud_Malon&quot;&gt;me retrouver&lt;/a&gt; !&lt;/p&gt;</content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><summary type="html">Voici 2 ans qu’Ari a quitté l’Islande pour le Danemark, abandonnant femme et enfant. Cette rupture, il l’a voulu et mais il la regrette. Mais Ari reçoit une lettre de sa belle-mère et un colis rempli de souvenirs qui le pousse à quitter sa maison d’édition danoise et à revenir au pays.</summary></entry><entry><title type="html">Merci #dna #streetart by @stork_pixelart</title><link href="https://www.6x8.org/2021/12/merci-dna-streetart-by-stork-pixelart/" rel="alternate" type="text/html" title="Merci #dna #streetart by @stork_pixelart" /><published>2021-12-07T00:00:00+01:00</published><updated>2021-12-07T00:00:00+01:00</updated><id>https://www.6x8.org/2021/12/merci-dna-streetart-by-stork-pixelart</id><content type="html" xml:base="https://www.6x8.org/2021/12/merci-dna-streetart-by-stork-pixelart/">&lt;p&gt;Quand j’étais parisien, je chassais les &lt;a href=&quot;http://sitofotos.6x8.org/index.php?/category/2&quot;&gt;Space invaders&lt;/a&gt;. Maintenant que je suis strasbourgeois, je chasse les &lt;a href=&quot;https://www.6x8.org/tag/stork7567/&quot;&gt;cigognes&lt;/a&gt; et je ne regrette rien (ni forcément Paris, ni forcément les œuvres d’Invader). Vous aussi, partez &lt;a href=&quot;https://www.6x8.org/2019/11/a-la-chasse-au-stork/&quot;&gt;à la chasse au Stork&lt;/a&gt; !&lt;/p&gt;</content><author><name></name></author><category term="trucs-instagrammes" /><category term="stork7567" /><category term="streetart" /><category term="strasbourg" /><summary type="html">Quand j’étais parisien, je chassais les Space invaders. Maintenant que je suis strasbourgeois, je chasse les cigognes et je ne regrette rien (ni forcément Paris, ni forcément les œuvres d’Invader). Vous aussi, partez à la chasse au Stork !</summary></entry></feed>
