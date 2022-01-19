@@ -178,6 +178,45 @@
 					</div>
 				</a>
 			</header>
+			<div class="darkmode">
+				<label for="darkmode-toggle">
+    				<svg
+      					aria-hidden="true"
+      					focusable="false"
+      					class="sun"
+      					width="15"
+      					height="15"
+      					viewBox="0 0 24 24"
+      					fill="none"
+      					stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+      					xmlns="http://www.w3.org/2000/svg"
+    				>
+    					<circle cx="12" cy="12" r="5"/>
+    					<line x1="12" x2="12" y1="1" y2="3"/>
+    					<line x1="12" x2="12" y1="21" y2="23"/>
+    					<line x1="4.22" x2="5.64" y1="4.22" y2="5.64"/>
+    					<line x1="18.36" x2="19.78" y1="18.36" y2="19.78"/>
+    					<line x1="1" x2="3" y1="12" y2="12"/>
+    					<line x1="21" x2="23" y1="12" y2="12"/>
+    					<line x1="4.22" x2="5.64" y1="19.78" y2="18.36"/>
+    					<line x1="18.36" x2="19.78" y1="5.64" y2="4.22"/>
+    				</svg>
+  					<input type="checkbox" name="darkmode-toggle" id="darkmode-toggle" />
+  					<span class="display" hidden></span>
+    				<svg
+      					aria-hidden="true"
+      					focusable="false"
+      					class="moon"
+      					width="13"
+      					height="13"
+      					viewBox="0 0 24 24"
+      					fill="none"
+      					xmlns="http://www.w3.org/2000/svg"
+    				>
+    					<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+    				</svg>
+				</label>
+			</div>
 			<nav>
 				<ul class="menu">
 
@@ -319,6 +358,7 @@ Mars
 		<div>
 			<p><strong>Vous êtes perdus&nbsp;?</strong> <a href="/plan-du-site.html" id="sitemap">Plan du site</a> ou <a href="/random/">une page au hasard&nbsp;!</a></p>
 			<p><strong>Licence&nbsp;?</strong> <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC by-nc-nd</a> Arnaud&nbsp;Malon 2021</p>
+			<p><strong>S'abonner&nbsp;?</strong> <a href="/feed.xml" id="rss"><abbr>RSS</abbr></a></p>
 		</div>
 	</div>
 	<div class="social">
@@ -360,6 +400,28 @@ Mars
 <!-- search -->
 <script src="/js/search-script.js" type="text/javascript"></script>
 <script type="text/javascript">
+function getCookie (name) {
+	let value = `; ${document.cookie}`;
+	let parts = value.split(`; ${name}=`);
+	if (parts.length === 2) return parts.pop().split(';').shift();
+}
+document.getElementById("darkmode-toggle").addEventListener('change', (event) => {
+	document.body.classList.toggle("dark-mode");
+	document.cookie = 'darkmode='+(document.getElementById("darkmode-toggle").checked)+'; path=/; max-age=${60 * 60 * 24 * 14};';
+});
+if (getCookie("darkmode") !== undefined) {
+	if (getCookie("darkmode") === "true") {
+		document.getElementById("darkmode-toggle").checked = true;
+		document.body.classList.add("dark-mode");
+	}
+} else {
+	if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+		document.getElementById("darkmode-toggle").checked = true;
+		document.body.classList.add("dark-mode");
+		document.cookie = 'darkmode=true; path=/; max-age=${60 * 60 * 24 * 14};';
+	}
+}
+
 var sjs = SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),

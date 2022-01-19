@@ -354,7 +354,8 @@ nav {
     }
     @media screen and (max-device-width: @md-xsmall) {
       width: calc(100%);
-    }  }
+    }
+  }
   .card {
     position: relative;
     margin: 1rem;
@@ -1152,7 +1153,83 @@ details {
 
 /* Dark mode */
 
-@media screen and (prefers-color-scheme: dark) {
+.darkmode {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  @media screen and (max-device-width: @md-xsmall) {
+    top: .5rem;
+    right: .5rem;
+  }
+}
+.darkmode label {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 1ch;
+}
+.darkmode svg {
+  fill: white;
+}
+.darkmode input {
+    position: absolute;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+}
+.darkmode .display {
+  --offset: 0.25em;
+  --diameter: 1em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-around;
+  width: calc(var(--diameter) * 2 + var(--offset) * 2);
+  height: calc(var(--diameter) + var(--offset) * 2);
+  box-sizing: content-box; 
+  border: 0.1em solid rgb(0 0 0 / 0.2);
+  position: relative;
+  border-radius: 100vw;
+  background-color: white;
+  transition: 250ms;
+  cursor: pointer;
+}
+.darkmode .display::before {
+  content: '';
+  width: var(--diameter); 
+  height: var(--diameter);
+  border-radius: 50%;
+  box-sizing: border-box; 
+  border: 0.1 solid rgb(0 0 0 / 0.2); 
+  position: absolute;
+  z-index: 2;
+  top: 50%;
+  left: var(--offset);
+  transform: translate(0, -50%);
+  background-color: black;
+  transition: inherit;
+}
+@media (prefers-reduced-motion: reduce) {
+  .darkmode .display {
+    transition-duration: 0ms;
+  }
+}
+.darkmode input:focus + .display {
+  outline: 1px dotted #212121;
+  outline: 1px auto -webkit-focus-ring-color;
+}
+.darkmode input:focus:not(:focus-visible) + .display {
+  outline: 0;
+}
+.darkmode input:checked + .display {
+  background-color: black;
+}
+.darkmode input:checked + .display::before {
+  background-color: white;
+  transform: translate(100%, -50%);
+}
+
+.dark-mode {
   .container {
     background: #292929;
     background-image: url("images/noise.png");
