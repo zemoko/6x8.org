@@ -1,6 +1,30 @@
 [
   
     {
+      "title"    : "Journée de l’Europe, visite de l’EuroParlement #europeday #europeanparliament #strasbourg",
+      "category" : "trucs-instagrammes",
+      "tags"     : "strasbourg",
+      "url"      : "/2022/05/Cigognes/",
+      "date"     : "2022-05-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cigognes by @stork_pixelart #streetart #strasbourg",
+      "category" : "trucs-instagrammes",
+      "tags"     : "streetart, strasbourg",
+      "url"      : "/2022/05/Europeday/",
+      "date"     : "2022-05-14 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ma critique de «&nbsp;<strong>En corps</strong>&nbsp;» de <em>Cédric Klapisch</em>",
+      "category" : "trucs-critiques",
+      "tags"     : "critique, film",
+      "url"      : "/2022/04/ma-critique-de-en-corps-de-cedric-klapisch/",
+      "date"     : "2022-04-18 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "3 loustics sur des skis",
       "category" : "trucs-instagrammes",
       "tags"     : "",
@@ -11,7 +35,7 @@
     {
       "title"    : "Vacances ❄️☀️⛷",
       "category" : "trucs-instagrammes",
-      "tags"     : "",
+      "tags"     : "montagne",
       "url"      : "/2022/04/vacances/",
       "date"     : "2022-04-13 00:00:00 +0200"
     } ,
@@ -19,7 +43,7 @@
     {
       "title"    : "Col de la Chal",
       "category" : "trucs-instagrammes",
-      "tags"     : "",
+      "tags"     : "montagne",
       "url"      : "/2022/04/col-de-la-chal/",
       "date"     : "2022-04-11 00:00:00 +0200"
     } ,
@@ -27,7 +51,7 @@
     {
       "title"    : "Bien arrivés ! 😎 🏔 ❄️ ⛷",
       "category" : "trucs-instagrammes",
-      "tags"     : "",
+      "tags"     : "montagne",
       "url"      : "/2022/04/bien-arriv-es/",
       "date"     : "2022-04-10 00:00:00 +0200"
     } ,
@@ -59,7 +83,7 @@
     {
       "title"    : "Terraforming Mars, expedition Arès #boardgames #jeuxdesociete",
       "category" : "trucs-instagrammes",
-      "tags"     : "",
+      "tags"     : "jeux-de-societe",
       "url"      : "/2022/03/terraforming-mars-expedition-ar-es-boardgames-jeuxdesociete/",
       "date"     : "2022-03-12 00:00:00 +0100"
     } ,
@@ -67,7 +91,7 @@
     {
       "title"    : "La semencerie #strasbourg",
       "category" : "trucs-instagrammes",
-      "tags"     : "",
+      "tags"     : "strasbourg",
       "url"      : "/2022/03/la-semencerie-strasbourg/",
       "date"     : "2022-03-12 00:00:00 +0100"
     } ,
@@ -75,7 +99,7 @@
     {
       "title"    : "Impasse de la grande écluse #strasbourg #streetart by @stork_pixelart",
       "category" : "trucs-instagrammes",
-      "tags"     : "",
+      "tags"     : "strasbourg, streetart",
       "url"      : "/2022/03/impasse-de-la-grande-ecluse-strasbourg-streetart-by-stork-pixelart/",
       "date"     : "2022-03-11 00:00:00 +0100"
     } ,
@@ -83,7 +107,7 @@
     {
       "title"    : "Bon anniversaire Roro #miam #anniversaire #licorne",
       "category" : "trucs-instagrammes",
-      "tags"     : "",
+      "tags"     : "miam, anniversaire",
       "url"      : "/2022/02/bon-anniversaire-roro-miam-anniversaire-licorne/",
       "date"     : "2022-02-27 00:00:00 +0100"
     } ,
@@ -91,7 +115,7 @@
     {
       "title"    : "2022 by @stork_pixelart #streetart #strasbourg",
       "category" : "trucs-instagrammes",
-      "tags"     : "",
+      "tags"     : "strasbourg, streetart",
       "url"      : "/2022/02/2022-by-stork-pixelart-streetart-strasbourg/",
       "date"     : "2022-02-21 00:00:00 +0100"
     } ,
@@ -107,7 +131,7 @@
     {
       "title"    : "Fanny Ardant (et moi ?) #cinema",
       "category" : "trucs-instagrammes",
-      "tags"     : "",
+      "tags"     : "film",
       "url"      : "/2022/01/fanny-ardant-et-moi-cinema/",
       "date"     : "2022-01-18 00:00:00 +0100"
     } ,
