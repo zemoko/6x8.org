@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "En passant",
+      "category" : "trucs-instagrammes",
+      "tags"     : "strasbourg",
+      "url"      : "/2022/07/en-passant/",
+      "date"     : "2022-07-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rue de Mutzig",
+      "category" : "trucs-instagrammes",
+      "tags"     : "streetart, stork_pixelart, strasbourg",
+      "url"      : "/2022/07/rue-de-mutzig/",
+      "date"     : "2022-07-09 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Ma critique de «&nbsp;<strong>Les lames du Cardinal</strong>&nbsp;» de <em>Pierre Pevel</em>",
       "category" : "trucs-critiques",
       "tags"     : "critique, livre",
