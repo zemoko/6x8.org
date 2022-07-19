@@ -426,10 +426,6 @@ nav {
     figure {
       height: 38.5rem;
     }
-    h3 a:after {
-      /* top: -38.5rem;
-      height: calc(100% + 38.5rem); */
-    }
   }
 }
 
@@ -912,6 +908,7 @@ iframe.center {
         background: inherit;
         -webkit-text-fill-color: transparent;
         -webkit-background-clip: text;
+        background-clip: text;
         font-weight: bold;
         top: 0;
         left: 100%;
@@ -1250,7 +1247,12 @@ details {
     .post-meta, .post-content {
       background-image: linear-gradient(to bottom, #313131 0%, #2a2a29 100%);
       color: white;
-    }  
+    }
+    .post-content figure {
+      blockquote, > div {
+        background: none;
+      }
+    }
   }
   .page a, .page .post-content a {
     color: #a8a0f7;
