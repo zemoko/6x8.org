@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Ma critique de «&nbsp;<strong lang=\"en\">The Hitchhiker’s Guide to the Galaxy (<abbr>H2G2</abbr>)</strong>&nbsp;» de <em>Douglas Adams</em>",
+      "category" : "trucs-critiques",
+      "tags"     : "critique, livre, coup-de-coeur",
+      "url"      : "/2022/09/ma-critique-du-guide-du-routard-galactique-de-douglas-adams/",
+      "date"     : "2022-09-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Lomo <abbr>LCA</abbr> x (Strasbourg + Le Croisic + St Nazaire)",
+      "category" : "qui-voyagetrucs-de-parisien",
+      "tags"     : "vacances, lomo",
+      "url"      : "/2022/09/lomo-lca-strasbourg-le-croisic-saint-nazaire/",
+      "date"     : "2022-09-26 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Message de service aux développeurs&nbsp;: <strong>une adresse <span lang=\"en\">e-mail</span> avec un signe «&nbsp;+&nbsp;» est valide</strong>",
       "category" : "trucs-de-webmaster",
       "tags"     : "",

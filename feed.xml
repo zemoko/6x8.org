@@ -1,4 +1,418 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://www.6x8.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.6x8.org/" rel="alternate" type="text/html" /><updated>2022-09-15T20:03:31+02:00</updated><id>https://www.6x8.org/feed.xml</id><title type="html">6x8=42</title><subtitle>Les trucs du Moko.</subtitle><entry><title type="html">Message de service aux développeurs : une adresse e-mail avec un signe « + » est valide</title><link href="https://www.6x8.org/2022/09/une-adresse-e-mail-avec-un-signe-plus-est-valide/" rel="alternate" type="text/html" title="Message de service aux développeurs : une adresse e-mail avec un signe « + » est valide" /><published>2022-09-14T00:00:00+02:00</published><updated>2022-09-14T00:00:00+02:00</updated><id>https://www.6x8.org/2022/09/une-adresse-e-mail-avec-un-signe-plus-est-valide</id><content type="html" xml:base="https://www.6x8.org/2022/09/une-adresse-e-mail-avec-un-signe-plus-est-valide/">&lt;h2&gt;Pourquoi c’est valide&amp;nbsp;?&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-27T15:12:40+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">6x8=42</title><subtitle>Les trucs du Moko.</subtitle><entry><title type="html">Ma critique de « The Hitchhiker’s Guide to the Galaxy (H2G2) » de Douglas Adams</title><link href="http://localhost:4000/2022/09/ma-critique-du-guide-du-routard-galactique-de-douglas-adams/" rel="alternate" type="text/html" title="Ma critique de « The Hitchhiker’s Guide to the Galaxy (H2G2) » de Douglas Adams" /><published>2022-09-27T00:00:00+02:00</published><updated>2022-09-27T00:00:00+02:00</updated><id>http://localhost:4000/2022/09/ma-critique-du-guide-du-routard-galactique-de-douglas-adams</id><content type="html" xml:base="http://localhost:4000/2022/09/ma-critique-du-guide-du-routard-galactique-de-douglas-adams/">&lt;p&gt;&lt;img src=&quot;/images/9781529034523.jpg# book2right&quot; alt=&quot;&quot; /&gt;J’avais déjà essayé de vous expliquer &lt;a href=&quot;/2016/10/la-vie-lunivers-et-le-reste/&quot;&gt;La vie, l’univers et le reste&lt;/a&gt; et donc pourquoi « 6 x 8 = 42 », et donc de vous présenter &lt;strong&gt;le Guide du routard galactique&lt;/strong&gt; (&lt;a href=&quot;https://fr.wikipedia.org/wiki/Le_Guide_du_voyageur_galactique_(roman)#Titre_en_fran%C3%A7ais&quot;&gt;n’en déplaise au routard&lt;/a&gt;, je continuerais de l’appeler comme ça, na !).&lt;/p&gt;
+
+&lt;p&gt;Cet été, j’ai commencé à le re-re-relire, et c’est donc l’occasion d’écrire une (petite ?) critique de ce premier volume :)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Je vous fais le pitch&lt;/strong&gt; de ce premier tome (d’une trilogie qui compte, je le rappelle, 5 volumes, c’est donc une trilogie unique en son genre) : ce n’est pas, à proprement parler, l’histoire du Guide du Routard Galactique mais celle d’&lt;strong&gt;Arthur Dent&lt;/strong&gt;. Arthur est anglais (personne n’est parfait) et bien embêté car &lt;strong&gt;sa maison va être détruite pour laisser place à une bretelle d’autoroute&lt;/strong&gt;. C’était prévu et annoncé… dans une cave d’un bâtiment officiel de la ville d’à côté, certes… mais nul n’est censé ignorer la loi et les bulldozers sont devant sa maison, prêt à la détruire.&lt;/p&gt;
+
+&lt;blockquote class=&quot;citation&quot; lang=&quot;en&quot;&gt;
+	&lt;p&gt;‘This must be Thursday,’ said Arthur to himself, sinking low over his beer, ‘I never could get the hang of Thursdays.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+	&lt;img src=&quot;/images/HHGTTG-Logo.jpg&quot; alt=&quot;Arthur et Ford&quot; /&gt;
+	&lt;figcaption&gt;Arhur et Ford&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Ford Perfect&lt;/strong&gt;, son meilleur ami arrive et lui annonce alors que &lt;strong&gt;la Terre elle-même va être détruite pour laisser place à une autoroute hyper-spatiale&lt;/strong&gt;. C’était prévu et annoncé … sur une planète de Proxima du Centaure, certes… mais nul n’est censé ignorer la loi.&lt;/p&gt;
+
+&lt;blockquote class=&quot;citation&quot; lang=&quot;en&quot;&gt;
+	&lt;div&gt;
+		&lt;p&gt;People of Earth, your attention please,&lt;/p&gt;
+		&lt;p&gt;This is Prostetnic Vogon Jeltz of the Galactic Hyperspace Planning Council,’ the voice continued. ‘As you will no doubt be aware, the plans for development of the outlying regions of the Galaxy require the building of a hyperspatial express route through your star system, and regrettably your planet is one of those scheduled for demolition. The process will take slightly less than two of your Earth minutes. Thank you. […]&lt;/p&gt;
+		&lt;p&gt;There’s no point in acting all surprised about it. All the planning charts and demolition orders have been on display in your local planning department in Alpha Centauri for fifty of your Earth years, so you’ve had plenty of time to lodge any formal complaint and it’s far too late to start making a fuss about it now.&lt;/p&gt;
+		&lt;p&gt;What do you mean you’ve never been to Alpha Centauri? For Heavens’s sake, mankind, it’s only four light-years away, you know. I’m sorry, but if you can’t be bothered to take an interest in local affairs that’s your own lookout.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Heureusement, il se trouve que Ford est un extra-terrestre qui était sur Terre pour mettre à jour l’entrée correspondante du Guide du Routard Galactique.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/the-ultimate-hitchhikers-guide-to-the-galaxy-lunchtime-lit-with-mel.jpg&quot; alt=&quot;&quot; class=&quot;left&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;citation&quot; lang=&quot;en&quot;&gt;
+	&lt;ul&gt;
+		&lt;li&gt;‘What is it?’ asked Arthur.&lt;/li&gt;
+		&lt;li&gt;‘The Hitchhiker’s Guide to the Galaxy. It’s a sort of electronic book. It tells you everything you need to know about anything. That’s its job.’&lt;/li&gt;
+		&lt;li&gt;Arthur turned it over nervously in his hands.&lt;/li&gt;
+		&lt;li&gt;‘I like the cover,’ he said. ‘Don’t Panic. It’s the first helpful or intelligible thing anybody’s said to me all day.’&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;nof&quot;&gt;Fort heureusement (pour eux en tout cas), Arthur et Ford vont pouvoir quitter la Terre à temps en faisant de l’astro-stop, munis comme il se doit d’une serviette rose.&lt;/p&gt;
+
+&lt;blockquote class=&quot;citation&quot; lang=&quot;en&quot;&gt;
+	&lt;p&gt;More importantly, a towel has immense psychological value. For some reason, if a strag (strag: non-hitchhiker) discovers that a hitchhiker has his towel with him, he will automatically assume that he is also in possession of a toothbrush, face flannel, soap, tin of biscuits, flask, compass, map, ball of string, gnat spray, wet-weather gear, space suit, etc., etc. Furthermore, the strag will then happily lend the hitchhiker any of these or a dozen other items that the hitchhiker might accidentally have ‘lost’. What the strag will think is that any man who can hitch the length and breadth of the galaxy, rough it, slum it, struggle against terrible odds, win through, and still know where his towel is is clearly a man to be reckoned with.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ceci n’est que le début de leurs aventures. Au fil du roman, outre Arthur et Ford, vous croiserez nombre d’autres personnages, tous plus barrés les un que les autres :&lt;/p&gt;
+
+&lt;h2&gt;Les Vogons&lt;/h2&gt;
+&lt;p&gt;Ce sont eux qui ont détruit la Terre. Assez antipathiques donc, mais aussi grands (et particulièrement mauvais) poètes.&lt;/p&gt;
+
+&lt;blockquote class=&quot;citation&quot;&gt;
+	&lt;div&gt;
+		&lt;p&gt;Here is what to do if you want to get a lift from a Vogon: forget it. They are one of the most unpleasant races in the Galaxy – not actually evil, but bad-tempered, bureaucratic, officious and callous. They wouldn’t even lift a finger to save their own grandmothers from the Ravenous Bugblatter Beast of Traal without orders signed in triplicate, sent in, sent back, queried, lost, found, subjected to public inquiry, lost again, and finally buried in soft peat for three months and recycled as firelighters.&lt;/p&gt;
+		&lt;p&gt;‘The best way to get a drink out of a Vogon is to stick your finger down his throat, and the best way to irritate him is to feed his grandmother to the Ravenous Bugblatter Beast of Traal.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+	&lt;img src=&quot;/images/guide_entry__vogon_by_alexhart_d5d39tx-fullview.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h2&gt;Zaphod Beeblebrox&lt;/h2&gt;
+&lt;p&gt;Zaphor est un semi-cousin de Ford, et il est Président de la Galaxie. Zaphod est un peu mégalo sur les bords. Ah, et il a 2&amp;nbsp;têtes et 3&amp;nbsp;bras.&lt;/p&gt;
+
+&lt;h2&gt;Trillian (Tricia McMillan)&lt;/h2&gt;
+&lt;p&gt;Trillian est une terrienne, comme Arthur, qu’elle avait d’ailleurs déjà croisé lors d’une soirée à Islington… mais elle en était partie avec Zaphod, ce qui lui a permis d’elle-aussi survivre à la destruction de la Terre.&lt;/p&gt;
+
+&lt;h2&gt;Marvin&lt;/h2&gt;
+&lt;p&gt;Maervin est un androïde paranoïde. Suprêmement puissant et intelligent… mais aussi très très déprimé.&lt;/p&gt;
+
+&lt;h2&gt;Le Cœur en Or&lt;/h2&gt;
+&lt;p&gt;Il s'agit du vaisseau dans lequel Zaphod et Trillian naviguent. Sa propulsion est assurée par un générateur d’improbabilité infinie. C’est-à-dire que dès qu’il est enclenché, par un système d’improbabilité infinie, le vaisseau se trouve simultanément localisé en tout point de la galaxie ce qui, en calculant l’improbabilité qui nous intéresse, permet de s’y rendre instantanément.&lt;/p&gt;
+
+&lt;blockquote class=&quot;citation&quot; lang=&quot;en&quot;&gt;
+	&lt;div&gt;
+		&lt;p&gt;The principle of generating small amounts of finite improbability by simply hooking the logic circuits of a Bambleweeny 57 Sub-Meson Brain to an atomic vector plotter suspended in a strong Brownian Motion producer (say a nice hot cup of tea) were of course well understood […]. [One] thing [scientists] couldn’t stand was the perpetual failure they encountered in trying to construct a machine which could generate the infinite improbability field needed to flip a spaceship across the mind-paralyzing distances between the farthest stars, and in the end they grumpily announced that such a machine was virtually impossible.&lt;/p&gt;
+		&lt;p&gt;Then, one day, a student […] found himself reasoning this way:&lt;/p&gt;
+		&lt;p&gt;If, he thought to himself, such a machine is a virtual impossibility, then it must logically be a finite improbability. So all I have to do in order to make one is to work out exactly how improbable it is, feed that figure into the finite improbability generator, give it a fresh cup of really hot tea… and turn it on!&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Bref...&lt;/h2&gt;
+
+&lt;p&gt;C'est &lt;strong&gt;un livre «&amp;nbsp;total foutraque&amp;nbsp;»&lt;/strong&gt;, vous l’aurez compris, et d’une richesse incroyable. Outre ces personnages tous plus improbables que les autres, Douglas Adams a inventé une univers d’une profondeur folle.&lt;/p&gt;
+
+&lt;p&gt;Bref, vous l’aurez compris : &lt;strong&gt;j’aime toujours autant ce livre et j’ai toujours autant de mal à m’arrêter de le lire, et de rire, quand je commence&lt;/strong&gt;. Du coup, bientôt, la critique des tomes précédents ;)&lt;/p&gt;
+
+&lt;h2&gt;Le Guide est exact, la réalité est bien souvent erronée&lt;/h2&gt;
+
+&lt;p&gt;En bonus, voici  comment commence le Guide du Routard Galactique (pas le roman de Douglas Adams, le Guide pour lequel travaille Ford, suivez un peu !) :&lt;/p&gt;
+
+&lt;blockquote class=&quot;citation&quot; lang=&quot;en&quot;&gt;
+	&lt;p&gt;The introduction begins like this: ‘Space,’ it says, ‘is big. Really big. You just won’t believe how vastly hugely mindbogglingly big it is. I mean you may think it’s a long way down the road to the chemist, but that’s just peanuts to space. Listen . . .’ and so on.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dans nombre de romans, films ou series de &lt;abbr title=&quot;Science-Fiction&quot;&gt;SF&lt;/abbr&gt;, personne ne se pose la question de comment des personnes qui ne parlent pas la même langue peuvent facilement communiquer. Dans le &lt;strong lang=&quot;en&quot;&gt;Doctor Who&lt;/strong&gt;, on sait que c’est grâce au Tardis&lt;sup&gt;*&lt;/sup&gt; mais Douglas Adams a aussi une solution au problème : le poisson Babel.&lt;/p&gt;
+
+&lt;p&gt;GPPHjzJP4t53XBAdMqSwDL.jpg&lt;/p&gt;
+
+&lt;blockquote class=&quot;citation&quot; lang=&quot;en&quot;&gt;
+	&lt;p&gt;The Babel fish,’ said The Hitchhiker’s Guide to the Galaxy quietly, ‘is small, yellow and leech-like, and probably the oddest thing in the Universe. It feeds on brainwave energy received not from its own carrier but from those around it. It absorbs all unconscious mental frequencies from this brainwave energy to nourish itself with. It then excretes into the mind of its carrier a telepathic matrix formed by combining the conscious thought frequencies with nerve signals picked up from the speech centres of the brain which has supplied them. The practical upshot of all this is that if you stick a Babel fish in your ear you can instantly understand anything said to you in any form of language. The speech patterns you actually hear decode the brain-wave matrix which has been fed into your mind by your Babel fish.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;*&lt;/sup&gt; On notera par ailleurs que les univers de &lt;span lang=&quot;en&quot;&gt;Doctor Who&lt;/span&gt; et du Routard sont assez proches. Douglas Adams a d’ailleurs écrit les scénarios de plusieurs épisodes (d’avant le &lt;span lang=&quot;en&quot;&gt;reboot&lt;/span&gt; de la série évidemment).
+&lt;/p&gt;</content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><category term="coup-de-coeur" /><summary type="html">J’avais déjà essayé de vous expliquer La vie, l’univers et le reste et donc pourquoi « 6 x 8 = 42 », et donc de vous présenter le Guide du routard galactique (n’en déplaise au routard, je continuerais de l’appeler comme ça, na !).</summary></entry><entry><title type="html">Lomo LCA x (Strasbourg + Le Croisic + St Nazaire)</title><link href="http://localhost:4000/2022/09/lomo-lca-strasbourg-le-croisic-saint-nazaire/" rel="alternate" type="text/html" title="Lomo LCA x (Strasbourg + Le Croisic + St Nazaire)" /><published>2022-09-26T00:00:00+02:00</published><updated>2022-09-26T00:00:00+02:00</updated><id>http://localhost:4000/2022/09/lomo-lca-strasbourg-le-croisic-saint-nazaire</id><content type="html" xml:base="http://localhost:4000/2022/09/lomo-lca-strasbourg-le-croisic-saint-nazaire/">&lt;p&gt;Cet été, j’ai ressorti mon &lt;abbr&gt;LCA&lt;/abbr&gt;. Ça faisait trop longtemps que je le délaissais, l’argentique en général me chatouillait, le &lt;abbr&gt;LCA&lt;/abbr&gt; en particulier me manquait.&lt;/p&gt;
+
+&lt;p&gt;Voici donc 2 peloches que Négatif+ vient de m’envoyer. Quelques photos de Strasbourg (en juillet donc), pas mal de photos du Croisic (dont plein de rochers, forcément) et quelques-uns de notre escapade à Saint-Nazaire que nous avons beaucoup aimé (et qui se prêtait vraiment à faire de la photo).&lt;/p&gt;
+
+&lt;h2&gt;Strasbourg&lt;/h2&gt;
+
+&lt;p&gt;Je ne me lasse pas de lomographier la Cathédrale (pour Soizic, le Monoprix), désolé...&lt;/p&gt;
+
+&lt;div id=&quot;strasbourg-slider&quot; class=&quot;splide&quot;&gt;
+	&lt;div class=&quot;splide__track&quot;&gt;
+		&lt;ul class=&quot;splide__list&quot;&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+					&lt;picture&gt;
+						&lt;source srcset=&quot;/images/lca/000095920001.jpg&quot; type=&quot;image/webp&quot; /&gt;
+						&lt;img src=&quot;/images/lca/000095920001.jpg&quot; alt=&quot;La Cathédrale de Strasbourg&quot; /&gt;
+					&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+					&lt;picture&gt;
+						&lt;source srcset=&quot;/images/lca/000095920002.jpg&quot; type=&quot;image/webp&quot; /&gt;
+						&lt;img src=&quot;/images/lca/000095920002.jpg&quot; alt=&quot;La Cathédrale de Strasbourg&quot; /&gt;
+					&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+					&lt;picture&gt;
+						&lt;source srcset=&quot;/images/lca/000095920006.jpg&quot; type=&quot;image/webp&quot; /&gt;
+						&lt;img src=&quot;/images/lca/000095920006.jpg&quot; alt=&quot;La Place Kléber de Strasbourg&quot; /&gt;
+					&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+					&lt;picture&gt;
+						&lt;source srcset=&quot;/images/lca/000095920012.jpg&quot; type=&quot;image/webp&quot; /&gt;
+						&lt;img src=&quot;/images/lca/000095920012.jpg&quot; alt=&quot;La Maison des Ponts Couverts de Strasbourg&quot; /&gt;
+					&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+					&lt;picture&gt;
+						&lt;source srcset=&quot;/images/lca/000095920013.jpg&quot; type=&quot;image/webp&quot; /&gt;
+						&lt;img src=&quot;/images/lca/000095920013.jpg&quot; alt=&quot;La vue des Ponts Couverts de Strasbourg&quot; /&gt;
+					&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+					&lt;picture&gt;
+						&lt;source srcset=&quot;/images/lca/000095920008.jpg&quot; type=&quot;image/webp&quot; /&gt;
+						&lt;img src=&quot;/images/lca/000095920008.jpg&quot; alt=&quot;Des gens flous&quot; /&gt;
+					&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Le croisic&lt;/h2&gt;
+
+&lt;p&gt;Très bon séjour au Croisic... J'aime avoir ces souvenirs des rochers du Croisic&amp;nbsp;!&lt;/p&gt;
+
+&lt;div id=&quot;croisic-slider&quot; class=&quot;splide&quot;&gt;
+	&lt;div class=&quot;splide__track&quot;&gt;
+		&lt;ul class=&quot;splide__list&quot;&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095920026.jpg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095920026.jpg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095920016.jpg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095920016.jpg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095920024.jpg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095920024.jpg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095920028.jpg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095920028.jpg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095920030.jpg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095920030.jpg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095920033.jpg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095920033.jpg&quot; alt=&quot;Le Croisic, vue du Mont Esprit&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095920036.jpg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095920036.jpg&quot; alt=&quot;Le Croisic, Marais Salants&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095920037.jpg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095920037.jpg&quot; alt=&quot;Le Croisic, Marais Salants&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930020.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930020.jpeg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;			
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930021.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930021.jpeg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930022.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930022.jpeg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930023.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930023.jpeg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930024.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930024.jpeg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930028.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930028.jpeg&quot; alt=&quot;L'Ourse du Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930034.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930034.jpeg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930035.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930035.jpeg&quot; alt=&quot;Des rochers au Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930018.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930018.jpeg&quot; alt=&quot;Port du Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;			
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095920017.jpg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095920017.jpg&quot; alt=&quot;Parc de Penn Avel, Le Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930019.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930019.jpeg&quot; alt=&quot;Menhir, Le Croisic&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Saint-Nazaire&lt;/h2&gt;
+
+&lt;p&gt;Saint-Nazaire fut une excellente découverte. J'ai aimé tout ce qu'on y a fait&amp;nbsp;: Escal'Atlantic, balade autour du Bassin et du Port, vue du toît de la base sous-marine, écomusée et musée EOL...&lt;/p&gt;
+
+&lt;div id=&quot;stnazaire-slider&quot; class=&quot;splide&quot;&gt;
+	&lt;div class=&quot;splide__track&quot;&gt;
+		&lt;ul class=&quot;splide__list&quot;&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930002.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930002.jpeg&quot; alt=&quot;Le Bassin de Saint Nazaire&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930003.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930003.jpeg&quot; alt=&quot;Des visiteurs heureux de l'Escal'Atlantic de Saint Nazaire&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930007.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930007.jpeg&quot; alt=&quot;Les jardins au dessus de la Base Sous-Marine de Saint Nazaire&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930010.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930010.jpeg&quot; alt=&quot;Suite de Triangle, de Felice Varini (une anamorphose à Saint Nazaire)&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930008.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930008.jpeg&quot; alt=&quot;Monument à l'abolition de l'esclavage, Saint Nazaire&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930012.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930012.jpeg&quot; alt=&quot;Entrée est du Bassin de Saint Nazaire&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930013.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930013.jpeg&quot; alt=&quot;Port de Saint Nazaire&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930016.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930016.jpeg&quot; alt=&quot;Port de Saint Nazaire&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;
+			&lt;li class=&quot;splide__slide&quot;&gt;
+				&lt;figure&gt;
+				&lt;picture&gt;
+					&lt;source srcset=&quot;/images/lca/000095930017.jpeg&quot; type=&quot;image/webp&quot; /&gt;
+					&lt;img src=&quot;/images/lca/000095930017.jpeg&quot; alt=&quot;Port de Saint Nazaire&quot; /&gt;
+				&lt;/picture&gt;
+				&lt;/figure&gt;
+			&lt;/li&gt;		
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="qui-voyage" /><category term="trucs-de-parisien" /><category term="vacances" /><category term="lomo" /><summary type="html">Cet été, j’ai ressorti mon LCA. Ça faisait trop longtemps que je le délaissais, l’argentique en général me chatouillait, le LCA en particulier me manquait.</summary></entry><entry><title type="html">Message de service aux développeurs : une adresse e-mail avec un signe « + » est valide</title><link href="http://localhost:4000/2022/09/une-adresse-e-mail-avec-un-signe-plus-est-valide/" rel="alternate" type="text/html" title="Message de service aux développeurs : une adresse e-mail avec un signe « + » est valide" /><published>2022-09-14T00:00:00+02:00</published><updated>2022-09-14T00:00:00+02:00</updated><id>http://localhost:4000/2022/09/une-adresse-e-mail-avec-un-signe-plus-est-valide</id><content type="html" xml:base="http://localhost:4000/2022/09/une-adresse-e-mail-avec-un-signe-plus-est-valide/">&lt;h2&gt;Pourquoi c’est valide&amp;nbsp;?&lt;/h2&gt;
 
 &lt;p&gt;Les courriers électroniques obéissent à une structure définie par la &lt;a href=&quot;https://www.ietf.org/rfc/rfc2822.txt&quot; lang=&quot;en&quot; hreflang=&quot;en&quot;&gt;&lt;abbr&gt;RFC2822&lt;/abbr&gt; Internet Message Format&lt;/a&gt;, elle-même étant une mise à jour de la &lt;a href=&quot;http://www.faqs.org/rfcs/rfc822.html&quot; lang=&quot;en&quot; hreflang=&quot;en&quot;&gt;&lt;abbr&gt;RFC822&lt;/abbr&gt; Standard for the format of &lt;abbr&gt;ARPA&lt;/abbr&gt; Internet text messages&lt;/a&gt;. La &lt;abbr&gt;RFC2822&lt;/abbr&gt; date d’avril 2002, la &lt;abbr&gt;RFC822&lt;/abbr&gt; date quand elle du 13 août 1982&amp;nbsp;!&lt;/p&gt;
 
@@ -55,4 +469,4 @@
 
 &lt;hr /&gt;
 
-&lt;p class=&quot;nof&quot;&gt;L'&lt;a href=&quot;https://www.flickr.com/photos/kenwhytock/23457159216/in/photolist-BJQ5cA-2j13f1-5YLAo9-BMb1mM-b9R1TV-dTSZbT-bvPwwR-amNjyU-4KHpQy-7DBu97-dmn34H-azubXM-9M4XGA-BMdbig-2iEupir-6hYeaz-cue4n3-c9BSq9-7yL2x5-nQmRQ6-awWReS-ZCpzsY-74aF43-aoMB2t-n9TjGy-k5u2Qr-nn9qzF-62h1Ee-n9THaD-2k3geyS-nDEaRT-nn9haA-nnavUX-26hvtTi-T53eDJ-ghitWg-9k4nnG-a19oHg-35j9Eh-5gdjmz-8rB7zM-AwumF7-4L8gb4-viWryr-cmujP1-o9CeQA-9bn4Gw-nFqRVV-nDC7q8-HMzezq&quot;&gt;image d'entête&lt;/a&gt; est de &lt;a href=&quot;https://www.flickr.com/photos/kenwhytock/&quot;&gt;Ken Whytock&lt;/a&gt;, elle est en licence &lt;a href=&quot;https://creativecommons.org/licenses/by-nc/2.0/	&quot;&gt;CC BY-NC 2.0&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="trucs-de-webmaster" /><summary type="html">Pourquoi c’est valide&amp;nbsp;?</summary></entry><entry><title type="html">Je me rends compte qu’on a vu une #anamorphose à Saint Nazaire et que je me la suis gardée pour moi #oups #vacances</title><link href="https://www.6x8.org/2022/09/anamorphose/" rel="alternate" type="text/html" title="Je me rends compte qu’on a vu une #anamorphose à Saint Nazaire et que je me la suis gardée pour moi #oups #vacances" /><published>2022-09-04T00:00:00+02:00</published><updated>2022-09-04T00:00:00+02:00</updated><id>https://www.6x8.org/2022/09/anamorphose</id><content type="html" xml:base="https://www.6x8.org/2022/09/anamorphose/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><category term="anamorphose" /><summary type="html"></summary></entry><entry><title type="html">Le Croisic</title><link href="https://www.6x8.org/2022/08/le-croisic/" rel="alternate" type="text/html" title="Le Croisic" /><published>2022-08-27T00:00:00+02:00</published><updated>2022-08-27T00:00:00+02:00</updated><id>https://www.6x8.org/2022/08/le-croisic</id><content type="html" xml:base="https://www.6x8.org/2022/08/le-croisic/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry><entry><title type="html">Bye-bye Le Croisic #vacances</title><link href="https://www.6x8.org/2022/08/bye-bye-le-croisic/" rel="alternate" type="text/html" title="Bye-bye Le Croisic #vacances" /><published>2022-08-27T00:00:00+02:00</published><updated>2022-08-27T00:00:00+02:00</updated><id>https://www.6x8.org/2022/08/bye-bye-le-croisic</id><content type="html" xml:base="https://www.6x8.org/2022/08/bye-bye-le-croisic/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry><entry><title type="html">Un petit tour et puis s’en vont #vacances</title><link href="https://www.6x8.org/2022/08/Un-petit-tour-et-puis-s-en-vont/" rel="alternate" type="text/html" title="Un petit tour et puis s’en vont #vacances" /><published>2022-08-26T00:00:00+02:00</published><updated>2022-08-26T00:00:00+02:00</updated><id>https://www.6x8.org/2022/08/Un-petit-tour-et-puis-s-en-vont</id><content type="html" xml:base="https://www.6x8.org/2022/08/Un-petit-tour-et-puis-s-en-vont/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry><entry><title type="html">Sur le pont #vacances</title><link href="https://www.6x8.org/2022/08/Sur-le-pont/" rel="alternate" type="text/html" title="Sur le pont #vacances" /><published>2022-08-24T00:00:00+02:00</published><updated>2022-08-24T00:00:00+02:00</updated><id>https://www.6x8.org/2022/08/Sur-le-pont</id><content type="html" xml:base="https://www.6x8.org/2022/08/Sur-le-pont/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacanceds" /><summary type="html"></summary></entry><entry><title type="html">Une journée à St Nazaire</title><link href="https://www.6x8.org/2022/08/Une-journee-a-St-Nazaire/" rel="alternate" type="text/html" title="Une journée à St Nazaire" /><published>2022-08-24T00:00:00+02:00</published><updated>2022-08-24T00:00:00+02:00</updated><id>https://www.6x8.org/2022/08/Une-journee-a-St-Nazaire</id><content type="html" xml:base="https://www.6x8.org/2022/08/Une-journee-a-St-Nazaire/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry><entry><title type="html">En faisant le tour de la presqu’île #vacances</title><link href="https://www.6x8.org/2022/08/En-faisant-le-tour-de-la-presquile/" rel="alternate" type="text/html" title="En faisant le tour de la presqu’île #vacances" /><published>2022-08-22T00:00:00+02:00</published><updated>2022-08-22T00:00:00+02:00</updated><id>https://www.6x8.org/2022/08/En-faisant-le-tour-de-la-presquile</id><content type="html" xml:base="https://www.6x8.org/2022/08/En-faisant-le-tour-de-la-presquile/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry><entry><title type="html">Geocaching dans le marais salant #vacances</title><link href="https://www.6x8.org/2022/08/Geocaching-dans-le-marais-salant/" rel="alternate" type="text/html" title="Geocaching dans le marais salant #vacances" /><published>2022-08-19T00:00:00+02:00</published><updated>2022-08-19T00:00:00+02:00</updated><id>https://www.6x8.org/2022/08/Geocaching-dans-le-marais-salant</id><content type="html" xml:base="https://www.6x8.org/2022/08/Geocaching-dans-le-marais-salant/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry><entry><title type="html">Océarium du Croisic</title><link href="https://www.6x8.org/2022/08/Ocearium-du-Croisic/" rel="alternate" type="text/html" title="Océarium du Croisic" /><published>2022-08-17T00:00:00+02:00</published><updated>2022-08-17T00:00:00+02:00</updated><id>https://www.6x8.org/2022/08/Ocearium-du-Croisic</id><content type="html" xml:base="https://www.6x8.org/2022/08/Ocearium-du-Croisic/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry></feed>
+&lt;p class=&quot;nof&quot;&gt;L'&lt;a href=&quot;https://www.flickr.com/photos/kenwhytock/23457159216/in/photolist-BJQ5cA-2j13f1-5YLAo9-BMb1mM-b9R1TV-dTSZbT-bvPwwR-amNjyU-4KHpQy-7DBu97-dmn34H-azubXM-9M4XGA-BMdbig-2iEupir-6hYeaz-cue4n3-c9BSq9-7yL2x5-nQmRQ6-awWReS-ZCpzsY-74aF43-aoMB2t-n9TjGy-k5u2Qr-nn9qzF-62h1Ee-n9THaD-2k3geyS-nDEaRT-nn9haA-nnavUX-26hvtTi-T53eDJ-ghitWg-9k4nnG-a19oHg-35j9Eh-5gdjmz-8rB7zM-AwumF7-4L8gb4-viWryr-cmujP1-o9CeQA-9bn4Gw-nFqRVV-nDC7q8-HMzezq&quot;&gt;image d'entête&lt;/a&gt; est de &lt;a href=&quot;https://www.flickr.com/photos/kenwhytock/&quot;&gt;Ken Whytock&lt;/a&gt;, elle est en licence &lt;a href=&quot;https://creativecommons.org/licenses/by-nc/2.0/	&quot;&gt;CC BY-NC 2.0&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="trucs-de-webmaster" /><summary type="html">Pourquoi c’est valide&amp;nbsp;?</summary></entry><entry><title type="html">Je me rends compte qu’on a vu une #anamorphose à Saint Nazaire et que je me la suis gardée pour moi #oups #vacances</title><link href="http://localhost:4000/2022/09/anamorphose/" rel="alternate" type="text/html" title="Je me rends compte qu’on a vu une #anamorphose à Saint Nazaire et que je me la suis gardée pour moi #oups #vacances" /><published>2022-09-04T00:00:00+02:00</published><updated>2022-09-04T00:00:00+02:00</updated><id>http://localhost:4000/2022/09/anamorphose</id><content type="html" xml:base="http://localhost:4000/2022/09/anamorphose/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><category term="anamorphose" /><summary type="html"></summary></entry><entry><title type="html">Bye-bye Le Croisic #vacances</title><link href="http://localhost:4000/2022/08/bye-bye-le-croisic/" rel="alternate" type="text/html" title="Bye-bye Le Croisic #vacances" /><published>2022-08-27T00:00:00+02:00</published><updated>2022-08-27T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/bye-bye-le-croisic</id><content type="html" xml:base="http://localhost:4000/2022/08/bye-bye-le-croisic/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry><entry><title type="html">Le Croisic</title><link href="http://localhost:4000/2022/08/le-croisic/" rel="alternate" type="text/html" title="Le Croisic" /><published>2022-08-27T00:00:00+02:00</published><updated>2022-08-27T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/le-croisic</id><content type="html" xml:base="http://localhost:4000/2022/08/le-croisic/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry><entry><title type="html">Un petit tour et puis s’en vont #vacances</title><link href="http://localhost:4000/2022/08/Un-petit-tour-et-puis-s-en-vont/" rel="alternate" type="text/html" title="Un petit tour et puis s’en vont #vacances" /><published>2022-08-26T00:00:00+02:00</published><updated>2022-08-26T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/Un-petit-tour-et-puis-s-en-vont</id><content type="html" xml:base="http://localhost:4000/2022/08/Un-petit-tour-et-puis-s-en-vont/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry><entry><title type="html">Une journée à St Nazaire</title><link href="http://localhost:4000/2022/08/Une-journee-a-St-Nazaire/" rel="alternate" type="text/html" title="Une journée à St Nazaire" /><published>2022-08-24T00:00:00+02:00</published><updated>2022-08-24T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/Une-journee-a-St-Nazaire</id><content type="html" xml:base="http://localhost:4000/2022/08/Une-journee-a-St-Nazaire/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry><entry><title type="html">Sur le pont #vacances</title><link href="http://localhost:4000/2022/08/Sur-le-pont/" rel="alternate" type="text/html" title="Sur le pont #vacances" /><published>2022-08-24T00:00:00+02:00</published><updated>2022-08-24T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/Sur-le-pont</id><content type="html" xml:base="http://localhost:4000/2022/08/Sur-le-pont/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacanceds" /><summary type="html"></summary></entry><entry><title type="html">En faisant le tour de la presqu’île #vacances</title><link href="http://localhost:4000/2022/08/En-faisant-le-tour-de-la-presquile/" rel="alternate" type="text/html" title="En faisant le tour de la presqu’île #vacances" /><published>2022-08-22T00:00:00+02:00</published><updated>2022-08-22T00:00:00+02:00</updated><id>http://localhost:4000/2022/08/En-faisant-le-tour-de-la-presquile</id><content type="html" xml:base="http://localhost:4000/2022/08/En-faisant-le-tour-de-la-presquile/"></content><author><name></name></author><category term="trucs-instagrammes" /><category term="vacances" /><summary type="html"></summary></entry></feed>
