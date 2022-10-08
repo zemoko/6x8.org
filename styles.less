@@ -626,6 +626,9 @@ nav {
     ul, ol {
       margin: 1rem;
     }
+    li {
+      margin-bottom: .5rem;
+    }
     table {
       width: 100%;
     }
@@ -653,7 +656,7 @@ nav {
         height: 100%;
       }
     }
-    figure {
+    figure, .card {
       margin: 1rem auto;
       border-radius: .5rem;
       padding: 1rem;
@@ -671,10 +674,15 @@ nav {
       }
       blockquote, p {
         background: white;
-        margin: 0;
       }
-      div {
+      > div {
         background: white;
+      }
+    }
+    figure {
+      > p {
+        margin: 0;
+        padding: .5rem;
       }
       figcaption {
         color: white;
@@ -683,6 +691,30 @@ nav {
         a {
           color: wheat;
         }
+      }
+    }
+    .card {
+      margin: 2rem 0;
+      > div {
+        padding: 1rem;
+        > blockquote {
+          margin: 1rem;
+        }
+      }
+      blockquote, blockquote p {
+        background: #eee;
+      }
+    }
+    .tag {
+      background: @primary;
+      box-shadow: 0 4px 5px -1px hsla(0 0% 0% / 60%);
+      border-radius: .2rem;
+      color: @white;
+      font-size: .9em;
+      padding: .2rem .4rem;
+      word-spacing: -.4ch;
+      &:before {
+        content: '#'
       }
     }
     .splide figure {
@@ -1249,12 +1281,26 @@ details {
       color: white;
     }
     .post-content {
-      figure {
+      figure, .card {
         blockquote, > div {
           background: none;
         }
+      }
+      figure {
         p {
           color: black;
+        }
+      }
+      .card {
+        > div { 
+          background-image: linear-gradient(to bottom, #313131 0%, #2a2a29 100%);
+        }
+        p {
+          background: none;
+        }
+        blockquote, blockquote p, figure > p {
+          background: #333;
+          color: #fff;
         }
       }
     }
