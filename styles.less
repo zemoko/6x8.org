@@ -720,7 +720,7 @@ nav {
         content: '#'
       }
     }
-    .splide figure {
+    .splide figure, .splide div.lightbox {
       text-align: center;
       width: 100%;
       img {
@@ -729,6 +729,12 @@ nav {
       }
       figcaption + img, figcaption + figure {
         margin-top: .5rem;
+      }
+      > figure {
+        margin: 0 auto;
+      }
+      figcaption {
+        margin-bottom: 1rem;
       }
     }
   }
