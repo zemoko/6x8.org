@@ -1,4 +1,241 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://www.6x8.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.6x8.org/" rel="alternate" type="text/html" /><updated>2022-12-26T21:18:53+01:00</updated><id>https://www.6x8.org/feed.xml</id><title type="html">6x8=42</title><subtitle>Les trucs du Moko.</subtitle><entry><title type="html">Ma critique de « The Peripheral », une série tirée de « Périphériques » de William Gibson</title><link href="https://www.6x8.org/2022/12/ma-critique-de-the-peripheral/" rel="alternate" type="text/html" title="Ma critique de « The Peripheral », une série tirée de « Périphériques » de William Gibson" /><published>2022-12-26T00:00:00+01:00</published><updated>2022-12-26T00:00:00+01:00</updated><id>https://www.6x8.org/2022/12/ma-critique-de-the-peripheral</id><content type="html" xml:base="https://www.6x8.org/2022/12/ma-critique-de-the-peripheral/"><![CDATA[<p>J’écris peu sur les séries que je regarde. Ce n’est pas que j’en regarde peu (loin de là), ni que je ne les apprécie pas… disons qu’il est rare que j’ai un coup de coeur et que je ressente l’envie de partager ce coup de coeur.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-01T23:21:57+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">6x8=42</title><subtitle>Les trucs du Moko.</subtitle><entry><title type="html">Bilan ludique de 2022</title><link href="http://localhost:4000/2023/01/bilan-ludique-2022/" rel="alternate" type="text/html" title="Bilan ludique de 2022" /><published>2023-01-01T00:00:00+01:00</published><updated>2023-01-01T00:00:00+01:00</updated><id>http://localhost:4000/2023/01/bilan-ludique-2022</id><content type="html" xml:base="http://localhost:4000/2023/01/bilan-ludique-2022/"><![CDATA[<p>Pour la 5<sup>e</sup> année<sup><a href="#lastyears">1</a></sup>, c’est l’heure de mon <strong>Bilan ludique</strong> (rendez à César ce qui est à Soizic alias <a href="http://des-en-mousse.com/">Dés en mousse</a>).. initialement, c’est une idée que je lui ai piquée. et que, une nouvelle fois, je peux facilement mettre en application grâce à <a href="https://www.bgstatsapp.com/">BG Stats</a> où je note toutes mes parties :)</p>
+
+<h2 id="bilan-de-lannée--524nbspparties">Bilan de l’année : <strong><mark>524&nbsp;parties</mark></strong></h2>
+
+<p>(plus 5 parties sur <a href="https://boardgamearena.com/"><abbr>BGA</abbr></a> mais ce sont des parties en ligne, je ne les compte pas dans mon Bilan)
+L’an dernier, c’était <em>511</em>, on va dire que c’est globalement stable donc. Trop stable, j’espère que je jouerais plus cette année ^^</p>
+
+<h2 id="à-quoi-jai-joué">À quoi j’ai joué ?</h2>
+
+<ul>
+  <li><mark><strong>163 jeux</strong> différents</mark> (<em>151 l’an dernier</em>)
+    <ul>
+      <li>83 pour une seule partie</li>
+      <li>6 dépassent les 10 parties</li>
+      <li>dont <strong>2 seulement qui dépassent les 25 parties</strong>…</li>
+    </ul>
+  </li>
+  <li>Ma première partie de 2022, c’était <strong>Varuna</strong>, la dernière <strong>[Kosmopoli:t]</strong>.</li>
+  <li>Philibert reste mon <span lang="en">dealer</span> officiel, <em>quelques</em> nouveaux jeux ont rejoint notre collection. Néanmoins, le top sur l’année reste composé d’<strong>un bon mix entre anciens et nouveaux jeux</strong>, <strong>entre petits jeux rapides et jeux plus expertset plus longs</strong>.</li>
+</ul>
+
+<table class="table-charts bar" style="--scale: 70">
+  <caption>Top des jeux joués</caption>
+  <thead class="sr-only">
+    <tr>
+      <td></td>
+      <th scope="col">Nb de parties</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<th scope="row">Qwixx</th>
+<td style="--value: 63;"><span>63</span></td>
+    </tr>
+    <tr>
+<th scope="row">Yams</th>
+<td style="--value: 56;"><span>56</span></td>
+    </tr>
+    <tr>
+<th scope="row" lang="en">Sub Terra</th>
+<td style="--value: 19;"><span>19</span></td>
+    </tr>
+    <tr>
+<th scope="row">[Kosmopoli:t]</th>
+<td style="--value: 18;"><span>18</span></td>
+    </tr>
+    <tr>
+<th scope="row" lang="en">Next Station London</th>
+<td style="--value: 17;"><span>17</span></td>
+    </tr>
+    <tr>
+<th scope="row">Terraforming Mars Arès</th>
+<td style="--value: 14;"><span>14</span></td>
+    </tr>
+    <tr>
+<th scope="row" lang="en">Clank Legacy</th>
+<td style="--value: 9;"><span>9</span></td>
+    </tr>
+    <tr>
+<th scope="row" lang="en">So Clover!</th>
+<td style="--value: 8;"><span>8</span></td>
+    </tr>
+    <tr>
+<th scope="row">101, le match</th>
+<td style="--value: 7;"><span>7</span></td>
+    </tr>
+    <tr>
+<th scope="row">Les gardiens de Havresac</th>
+<td style="--value: 7;"><span>7</span></td>
+    </tr>
+    <tr>
+<th scope="row" lang="en">7 Wonders Architects</th>
+<td style="--value: 7;"><span>7</span></td>
+    </tr>
+    <tr>
+<th scope="row">Akropolis</th>
+<td style="--value: 7;"><span>7</span></td>
+    </tr>
+    <tr>
+<th scope="row">Paquet de chips</th>
+<td style="--value: 7;"><span>7</span></td>
+    </tr>
+    <tr>
+<th scope="row">Les aventures de Robin des Bois</th>
+<td style="--value: 6;"><span>6</span></td>
+    </tr>
+    <tr>
+<th scope="row">Codex Naturalis</th>
+<td style="--value: 6;"><span>6</span></td>
+    </tr>
+    <tr>
+<th scope="row" lang="en">Distant Suns</th>
+<td style="--value: 6;"><span>6</span></td>
+    </tr>
+    <tr>
+<th scope="row" lang="en">Around the World</th>
+<td style="--value: 6;"><span>6</span></td>
+    </tr>
+    <tr>
+<th scope="row">Pandemie Legacy, Saison 2</th>
+<td style="--value: 5;"><span>5</span></td>
+    </tr>
+    <tr>
+<th scope="row">Azul</th>
+<td style="--value: 5;"><span>5</span></td>
+    </tr>
+    <tr>
+<th scope="row" lang="en">Dragon Castle</th>
+<td style="--value: 5;"><span>5</span></td>
+    </tr>
+    <tr>
+<th scope="row" lang="en">Turing Machine</th>
+<td style="--value: 5;"><span>5</span></td>
+    </tr>
+    <tr>
+<th scope="row">Ark Nova</th>
+<td style="--value: 5;"><span>5</span></td>
+    </tr>
+    <tr>
+<th scope="row" lang="en">Tapestry</th>
+<td style="--value: 5;"><span>5</span></td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>Yams</strong> et <strong>Qwixx</strong> restent indétrônables… normal !</li>
+  <li><strong>[Jeux d’ambiance]</strong>  <mark>Grop coup de cœur pour <a href="https://www.philibertnet.com/fr/nuts-publishing/75241-sub-terra-3770009354059.html" lang="en">Sub Terra</a></mark>, on a même investi dans des lampes à ultraviolet pour être encore plus dans l’ambiance. mais <mark><a href="https://www.philibertnet.com/fr/opla/84144--kosmopoli-t--3760032261066.html">[Kosmopoli:t]</a> reste une valeur sûre</mark> même si ce n’est pas une découverte de cette année, c’es un <abbr title="Objet Ludique Non Identifié">OLNI</abbr> toujours aussi plaisant à jouer, avec des joueurs réguliers comme avec des joueurs occasionnels. En parlant d’<abbr>OLNI</abbr>, une <mark>mention spéciale aussi pour <a href="https://www.philibertnet.com/fr/le-scorpion-masque/113377-turing-machine-807658001164.html" lang="en">Turing Machine</a></mark> qui n’est pas dans le top car je l’ai eu en fin d’année… mais que j’apprécie vraiment énormément !</li>
+  <li><strong>[Jeux de vacances]</strong>** <a href="https://www.philibertnet.com/fr/blue-orange/107043-next-station-london-3664824001505.html" lang="en">Next Station London</a> a été notre jeu du Ski, <a href="https://www.philibertnet.com/fr/intrafin/105522-terraforming-mars-expedition-ares-5425037740753.html">Terraforming Mars, expédition Arès</a> celui des vacances en Bretagne.</li>
+  <li><strong>[Jeux en campagnes]</strong> Pas mal de <span lang="en">legacy</span> cette année : on a fini la saison 2 de <a href="https://www.philibertnet.com/fr/zman-games/54559-pandemic-legacy-saison-2-boite-noire-vf-8435407616677.html">Pandémie</a> avec les copains/collègues, on a fait toute la campagne de <a href="https://www.philibertnet.com/fr/renegade-game-studios/96088-clank-legacy-3760243850950.html" lang="en">Clank Legacy</a> avec les garçons (et c’était vraiment très bon) et on a beaucoup apprécié <a href="https://www.philibertnet.com/fr/iello/104244-les-aventures-de-robin-des-bois-9782492525025.html">Robin des bois</a> avec les 3 loulous (<mark>un jeu que je conseille vraiment à toutes les familles</mark>)</li>
+  <li><strong>[Jeux familiaux]</strong> En plus de Robin des bois, donc, cette année, on a vraiment beaucoup aimé <a href="https://www.philibertnet.com/fr/catch-up-games/108132-les-gardiens-de-havresac-3760273010164.html">Les gardiens de Havresac</a> mais on ressort aussi assez souvent <a href="https://www.philibertnet.com/fr/repos-productions/101352-7-wonders-architects-5425016925553.html" lang="en">7 Wonders Architects</a>.</li>
+  <li><strong>[Jeux d’apéro]</strong> Nous ne sommes pas très originaux mais <mark><a href="https://www.philibertnet.com/fr/mixlore/109541-paquet-de-chips-3558380098409.html">Paquet de chips</a> fait vraiment le job&lt; :)</mark></li>
+  <li><strong>[Jeux experts]</strong> J’aime beaucoup <a href="https://www.philibertnet.com/fr/super-meeple/105162-ark-nova-3770023051064.html">Ark Nova</a>… mais <a href="https://www.philibertnet.com/fr/stonemaier-games/82350-tapestry-644216627523.html" lang="en">Tapestry</a> est sorti aussi souvent, alors que je l’ai depuis déjà quelques années. <a href="https://www.philibertnet.com/fr/iello/100084-khora-3760175517501.html">Khôra</a> est juste derrière et on l’apprécie aussi vraiment beaucoup.</li>
+</ul>
+
+<p>Bref, <strong>une bien belle année</strong>, avec des classiques qui fonctionnent toujours aussi bien, et ressortent avec grand plaisir, mais aussi quelques nouveaux très bons jeux.</p>
+
+<h2 id="avec-qui-jai-joué">Avec qui j’ai joué ?</h2>
+
+<ul>
+  <li>J’ai joué avec <strong>31 personnes différentes</strong> (l’an dernier, c’était <em>29</em>, on va dire que c’est stable)</li>
+  <li>La tendance jeu en famille, élargie, est encore vraire : 42% (?!) de mes parties ont été jouées avec Mathias, 39% avec Samuel, 32% avec Romane (en forte progression, en grandissant, Mademoiselle apprends, comme ses grands frères, à aimer jouer)… mais aussi 37% avec ma mère, 17% avec ma nièce et 13% avec ma soeur.</li>
+</ul>
+
+<table class="table-charts bar" style="--scale: 250">
+  <caption>J'ai joué avec...</caption>
+  <thead class="sr-only">
+    <tr>
+      <th scope="col">Qui&nbsp;?</th>
+      <th scope="col">Combien de parties&nbsp;?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="--color: purple; --term: 'Mathias';">
+      <th scope="row">Mathias</th>
+      <td style="--value: 224"><span>224</span></td>
+    </tr>
+    <tr style="--color: navy; --term: 'Samuel';">
+      <th scope="row">Samuel</th>
+      <td style="--value: 204"><span>204</span></td>
+    </tr>
+    <tr style="--color: mediumvioletred; --term: 'Brigitte';">
+      <th scope="row">Brigitte</th>
+      <td style="--value: 160"><span>160</span></td>
+    </tr>
+    <tr style="--color: tomato; --term: 'Romane';">
+      <th scope="row">Romane</th>
+      <td style="--value: 138"><span>138</span></td>
+    </tr>
+    <tr style="--color: darkorange; --term: 'Julie';">
+      <th scope="row">Julie</th>
+      <td style="--value: 72"><span>72</span></td>
+    </tr>
+    <tr style="--color: pink; --term: 'Sophie';">
+      <th scope="row">Sophie</th>
+      <td style="--value: 56"><span>56</span></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="où-ai-je-joué">Où ai-je joué ?</h2>
+
+<ul>
+  <li>J’ai surtout jouéà la maison (<strong>360 parties</strong>)</li>
+  <li>Le reste, c’est souvent en famille aussi : Chez ma soeur (évidemment) ou en vacances.</li>
+</ul>
+
+<hr />
+
+<p><sup id="lastyears">1</sup> Mes précédents bilans ludiques :</p>
+<ul>
+  <li><a href="/2022/01/bilan-ludique-2021/">Bilan ludique de 2021</a></li>
+  <li><a href="/2021/01/bilan-ludique-2020/">Bilan ludique de 2020</a></li>
+  <li><a href="/2020/01/bilan-ludique-2019/">Bilan ludique de 2019</a></li>
+  <li><a href="/2019/01/bilan-ludique-de-2018/">Bilan ludique de 2018</a></li>
+</ul>
+
+<style>
+@media screen and (min-width: 30em) {
+  .table-charts.pie td:before {
+    --zoom: .75;
+    --part: calc(var(--value) * 3.6);
+    --main-angle: calc(var(--part) -(90 *(var(--gt-25, 0) + var(--gt-50, 0) + var(--gt-75, 0))));
+    --β: calc(var(--main-angle) * 0.01745329251);
+    --α: calc((90 - var(--main-angle)) * 0.01745329251);
+    --sin-term-β-1: var(--β);
+    --sin-term-β-2: calc((var(--β) * var(--β) * var(--β)) / 6);
+    --sin-term-β-3: calc((var(--β) * var(--β) * var(--β) * var(--β) * var(--β)) / 120);
+    --sin-term-β-4: calc((var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β)) / 5040);
+    --sin-term-β-5: calc((var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β) * var(--β)) / 362880);
+    --sin-β: calc(var(--sin-term-β-1) - var(--sin-term-β-2) + var(--sin-term-β-3) - var(--sin-term-β-4) + var(--sin-term-β-5));
+    --sin-term-α-1: var(--α);
+    --sin-term-α-2: calc((var(--α) * var(--α) * var(--α)) / 6);
+    --sin-term-α-3: calc((var(--α) * var(--α) * var(--α) * var(--α) * var(--α)) / 120);
+    --sin-term-α-4: calc((var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α)) / 5040);
+    --sin-term-α-5: calc((var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α) * var(--α)) / 362880);
+    --sin-α: calc(var(--sin-term-α-1) - var(--sin-term-α-2) + var(--sin-term-α-3) - var(--sin-term-α-4) + var(--sin-term-α-5));
+    --B: calc(var(--hypo) * var(--sin-β));
+    --A: calc(var(--hypo) * var(--sin-α));
+    --pos-B: calc((var(--B) * 100 / var(--hypo)) / 2);
+    --pos-A: calc((var(--A) * 100 / var(--hypo)) / 2);
+    background: var(--color, currentColor);
+    -webkit-clip-path: polygon(50% 50%, 50% 0%, 100% 0%, calc(50% +(var(--pos-B) * 1% * var(--lt-25, 1)) +(var(--gt-25, 0) * 50%)) calc(50% -(var(--pos-A) * 1% * var(--lt-25, 1))), calc(50% +(var(--gt-25, 0) * 50%)) calc(50% +(var(--gt-25, 0) * 50%)), calc(50% +(var(--pos-A) * 1% * var(--lt-50, 1)) +(var(--gt-50, 0) * 50%)) calc(50% +(var(--pos-B) * 1% * var(--lt-50, 1)) +(var(--gt-50, 0) * 50%)), calc(50% -(var(--gt-50, 0) * 50%)) calc(50% +(var(--gt-50, 0) * 50%)), calc(50% -(var(--pos-B) * 1% * var(--lt-75, 1)) -(var(--gt-75, 0) * 50%)) calc(50% +(var(--pos-A) * 1% * var(--lt-75, 1))), calc(50% -(var(--gt-75, 0) * 50%)) calc(50% -(var(--gt-75, 0) * 50%)), calc(50% -(var(--pos-A) * 1% * var(--gt-75, 0))) calc(50% -(var(--pos-B) * 1% * var(--gt-75, 0))), 50% 50%);
+    clip-path: polygon(50% 50%, 50% 0%, 100% 0%, calc(50% +(var(--pos-B) * 1% * var(--lt-25, 1)) +(var(--gt-25, 0) * 50%)) calc(50% -(var(--pos-A) * 1% * var(--lt-25, 1))), calc(50% +(var(--gt-25, 0) * 50%)) calc(50% +(var(--gt-25, 0) * 50%)), calc(50% +(var(--pos-A) * 1% * var(--lt-50, 1)) +(var(--gt-50, 0) * 50%)) calc(50% +(var(--pos-B) * 1% * var(--lt-50, 1)) +(var(--gt-50, 0) * 50%)), calc(50% -(var(--gt-50, 0) * 50%)) calc(50% +(var(--gt-50, 0) * 50%)), calc(50% -(var(--pos-B) * 1% * var(--lt-75, 1)) -(var(--gt-75, 0) * 50%)) calc(50% +(var(--pos-A) * 1% * var(--lt-75, 1))), calc(50% -(var(--gt-75, 0) * 50%)) calc(50% -(var(--gt-75, 0) * 50%)), calc(50% -(var(--pos-A) * 1% * var(--gt-75, 0))) calc(50% -(var(--pos-B) * 1% * var(--gt-75, 0))), 50% 50%);
+    content: '';
+    height: var(--side);
+    -webkit-mask-image: radial-gradient(circle at center, #fff 0%, #fff calc(var(--side) / 2), transparent calc(var(--side) / 2));
+    mask-image: radial-gradient(circle at center, #fff 0%, #fff calc(var(--side) / 2), transparent calc(var(--side) / 2));
+    -webkit-transform: translate3d(-50%, -50%, 0) rotate(var(--position)) scale(var(--zoom));
+    transform: translate3d(-50%, -40%, 0) rotate(var(--position)) scale(var(--zoom));
+    transition: -webkit-transform 0.2s cubic-bezier(0.5, 0, 0.5, 1);
+    transition: transform 0.2s cubic-bezier(0.5, 0, 0.5, 1);
+    transition: transform 0.2s cubic-bezier(0.5, 0, 0.5, 1), -webkit-transform 0.2s cubic-bezier(0.5, 0, 0.5, 1);
+    width: var(--side);
+    will-change:transform;
+  }
+}
+</style>]]></content><author><name></name></author><category term="trucs" /><category term="boardgames" /><category term="jeux-de-societe" /><summary type="html"><![CDATA[Pour la 5e année1, c’est l’heure de mon Bilan ludique (rendez à César ce qui est à Soizic alias Dés en mousse).. initialement, c’est une idée que je lui ai piquée. et que, une nouvelle fois, je peux facilement mettre en application grâce à BG Stats où je note toutes mes parties :)]]></summary></entry><entry><title type="html">Ma critique de « The Peripheral », une série tirée de « Périphériques » de William Gibson</title><link href="http://localhost:4000/2022/12/ma-critique-de-the-peripheral/" rel="alternate" type="text/html" title="Ma critique de « The Peripheral », une série tirée de « Périphériques » de William Gibson" /><published>2022-12-26T00:00:00+01:00</published><updated>2022-12-26T00:00:00+01:00</updated><id>http://localhost:4000/2022/12/ma-critique-de-the-peripheral</id><content type="html" xml:base="http://localhost:4000/2022/12/ma-critique-de-the-peripheral/"><![CDATA[<p>J’écris peu sur les séries que je regarde. Ce n’est pas que j’en regarde peu (loin de là), ni que je ne les apprécie pas… disons qu’il est rare que j’ai un coup de coeur et que je ressente l’envie de partager ce coup de coeur.</p>
 
 <p>Bon, hé bien là : <strong>coup de coeur pour “The Peripheral”</strong>.</p>
 
@@ -25,7 +262,7 @@
 
 <hr />
 
-<p><sup>1</sup> Dans le Neuromancien, dès 1984 donc.</p>]]></content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="serie-tv" /><category term="coup-de-coeur" /><summary type="html"><![CDATA[J’écris peu sur les séries que je regarde. Ce n’est pas que j’en regarde peu (loin de là), ni que je ne les apprécie pas… disons qu’il est rare que j’ai un coup de coeur et que je ressente l’envie de partager ce coup de coeur.]]></summary></entry><entry><title type="html">Ma critique de « Le Bureau des affaires occultes » de Éric Fouassier</title><link href="https://www.6x8.org/2022/12/ma-critique-du-bureau-des-affaires-occultes-de-eric-fouassier/" rel="alternate" type="text/html" title="Ma critique de « Le Bureau des affaires occultes » de Éric Fouassier" /><published>2022-12-26T00:00:00+01:00</published><updated>2022-12-26T00:00:00+01:00</updated><id>https://www.6x8.org/2022/12/ma-critique-du-bureau-des-affaires-occultes-de-eric-fouassier</id><content type="html" xml:base="https://www.6x8.org/2022/12/ma-critique-du-bureau-des-affaires-occultes-de-eric-fouassier/"><![CDATA[<p><img src="/images/9782226460745-j.jpg# book2right" alt="" /><strong>Paris 1830</strong>, Louis-Philippe succède à son cousin Charles X, renversé par les émeutes parisiennes, devenues révolutions, des 27, 28 et 29 juillet 1930. La monarchie de Juillet est toute récente, donc fragile et l’équilibre des pouvoirs est précaire entre le roi et les chambres des pairs et des députés avec lesquels il partage désormais le pouvoir législatif.</p>
+<p><sup>1</sup> Dans le Neuromancien, dès 1984 donc.</p>]]></content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="serie-tv" /><category term="coup-de-coeur" /><summary type="html"><![CDATA[J’écris peu sur les séries que je regarde. Ce n’est pas que j’en regarde peu (loin de là), ni que je ne les apprécie pas… disons qu’il est rare que j’ai un coup de coeur et que je ressente l’envie de partager ce coup de coeur.]]></summary></entry><entry><title type="html">Ma critique de « Le Bureau des affaires occultes » de Éric Fouassier</title><link href="http://localhost:4000/2022/12/ma-critique-du-bureau-des-affaires-occultes-de-eric-fouassier/" rel="alternate" type="text/html" title="Ma critique de « Le Bureau des affaires occultes » de Éric Fouassier" /><published>2022-12-26T00:00:00+01:00</published><updated>2022-12-26T00:00:00+01:00</updated><id>http://localhost:4000/2022/12/ma-critique-du-bureau-des-affaires-occultes-de-eric-fouassier</id><content type="html" xml:base="http://localhost:4000/2022/12/ma-critique-du-bureau-des-affaires-occultes-de-eric-fouassier/"><![CDATA[<p><img src="/images/9782226460745-j.jpg# book2right" alt="" /><strong>Paris 1830</strong>, Louis-Philippe succède à son cousin Charles X, renversé par les émeutes parisiennes, devenues révolutions, des 27, 28 et 29 juillet 1930. La monarchie de Juillet est toute récente, donc fragile et l’équilibre des pouvoirs est précaire entre le roi et les chambres des pairs et des députés avec lesquels il partage désormais le pouvoir législatif.</p>
 
 <p>Quand <strong>le fils d’un bourgeois parisien se suicide dans des conditions étranges</strong>, on demande au jeune inspecteur <strong>Valentin Verne</strong>, pourtant posté aux mœurs, de mener l’enquête. Alors que la société se modernise, on juge, à raison, que la jeunesse et les connaissances scientifiques de Valentin devraient lui être d’une aide précieuse.</p>
 
@@ -37,7 +274,7 @@
 
 <hr />
 
-<p>Retrouvez <a href="https://www.senscritique.com/livre/le_bureau_des_affaires_occultes/critique/281459673">cette critique</a> sur <strong>Sens Critique</strong> où vous pouvez aussi <a href="http://www.senscritique.com/Arnaud_Malon">me retrouver</a> !</p>]]></content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><category term="coup-de-coeur" /><summary type="html"><![CDATA[Paris 1830, Louis-Philippe succède à son cousin Charles X, renversé par les émeutes parisiennes, devenues révolutions, des 27, 28 et 29 juillet 1930. La monarchie de Juillet est toute récente, donc fragile et l’équilibre des pouvoirs est précaire entre le roi et les chambres des pairs et des députés avec lesquels il partage désormais le pouvoir législatif.]]></summary></entry><entry><title type="html">St Nicolas = Speculoos ?</title><link href="https://www.6x8.org/2022/12/st-nicolas-pain-depices/" rel="alternate" type="text/html" title="St Nicolas = Speculoos ?" /><published>2022-12-06T00:00:00+01:00</published><updated>2022-12-06T00:00:00+01:00</updated><id>https://www.6x8.org/2022/12/st-nicolas-pain-depices</id><content type="html" xml:base="https://www.6x8.org/2022/12/st-nicolas-pain-depices/"><![CDATA[<p>Cette année, en plus du traditionnel <a href="/2014/12/st-nicolas-pain-depices/">Pain d’épices de la Saint Nicolas</a>, je me suis lancé dans la confection de Spéculoos. En effet, la Saint Nicolas est aussi fêtée en Belgique et, là-bas, ce sont des Speculoos en forme de Saint Nicolas qui sont offerts aux enfants. Comme en plus, les moules en bois pour faire des Speculoos sont trop beaux… c’était l’occasion ou jamais.</p>
+<p>Retrouvez <a href="https://www.senscritique.com/livre/le_bureau_des_affaires_occultes/critique/281459673">cette critique</a> sur <strong>Sens Critique</strong> où vous pouvez aussi <a href="http://www.senscritique.com/Arnaud_Malon">me retrouver</a> !</p>]]></content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><category term="coup-de-coeur" /><summary type="html"><![CDATA[Paris 1830, Louis-Philippe succède à son cousin Charles X, renversé par les émeutes parisiennes, devenues révolutions, des 27, 28 et 29 juillet 1930. La monarchie de Juillet est toute récente, donc fragile et l’équilibre des pouvoirs est précaire entre le roi et les chambres des pairs et des députés avec lesquels il partage désormais le pouvoir législatif.]]></summary></entry><entry><title type="html">St Nicolas = Speculoos ?</title><link href="http://localhost:4000/2022/12/st-nicolas-pain-depices/" rel="alternate" type="text/html" title="St Nicolas = Speculoos ?" /><published>2022-12-06T00:00:00+01:00</published><updated>2022-12-06T00:00:00+01:00</updated><id>http://localhost:4000/2022/12/st-nicolas-pain-depices</id><content type="html" xml:base="http://localhost:4000/2022/12/st-nicolas-pain-depices/"><![CDATA[<p>Cette année, en plus du traditionnel <a href="/2014/12/st-nicolas-pain-depices/">Pain d’épices de la Saint Nicolas</a>, je me suis lancé dans la confection de Spéculoos. En effet, la Saint Nicolas est aussi fêtée en Belgique et, là-bas, ce sont des Speculoos en forme de Saint Nicolas qui sont offerts aux enfants. Comme en plus, les moules en bois pour faire des Speculoos sont trop beaux… c’était l’occasion ou jamais.</p>
 
 <h2 id="ingrédients">Ingrédients</h2>
 <ul>
@@ -57,7 +294,7 @@
   <li>Laisser croûter au réfrigérateur pendant au moins 2 heures</li>
   <li>Cuire 20 à 25 minute à 170°C.</li>
   <li>Laisser refroidir sur une grille à pâtisserie</li>
-</ol>]]></content><author><name></name></author><category term="trucs" /><category term="recette" /><category term="miam" /><summary type="html"><![CDATA[Cette année, en plus du traditionnel Pain d’épices de la Saint Nicolas, je me suis lancé dans la confection de Spéculoos. En effet, la Saint Nicolas est aussi fêtée en Belgique et, là-bas, ce sont des Speculoos en forme de Saint Nicolas qui sont offerts aux enfants. Comme en plus, les moules en bois pour faire des Speculoos sont trop beaux… c’était l’occasion ou jamais.]]></summary></entry><entry><title type="html">Les portes du Possible</title><link href="https://www.6x8.org/2022/11/les-portes-du-possible/" rel="alternate" type="text/html" title="Les portes du Possible" /><published>2022-11-12T00:00:00+01:00</published><updated>2022-11-12T00:00:00+01:00</updated><id>https://www.6x8.org/2022/11/les-portes-du-possible</id><content type="html" xml:base="https://www.6x8.org/2022/11/les-portes-du-possible/"><![CDATA[<p>Hier, j’ai lu sur Mastodon que le <strong>Centre Pompidou Metz</strong> organisait actuellement une exposition <strong>« Les portes du possible, Art &amp; Science-Fiction »</strong>. J’aime la <abbr>SF</abbr>, j’aime Metz, j’aime le Centre Pompidou Metz… <strong>Bref, aujourd’hui, j’ai été à Metz</strong>.</p>
+</ol>]]></content><author><name></name></author><category term="trucs" /><category term="recette" /><category term="miam" /><summary type="html"><![CDATA[Cette année, en plus du traditionnel Pain d’épices de la Saint Nicolas, je me suis lancé dans la confection de Spéculoos. En effet, la Saint Nicolas est aussi fêtée en Belgique et, là-bas, ce sont des Speculoos en forme de Saint Nicolas qui sont offerts aux enfants. Comme en plus, les moules en bois pour faire des Speculoos sont trop beaux… c’était l’occasion ou jamais.]]></summary></entry><entry><title type="html">Les portes du Possible</title><link href="http://localhost:4000/2022/11/les-portes-du-possible/" rel="alternate" type="text/html" title="Les portes du Possible" /><published>2022-11-12T00:00:00+01:00</published><updated>2022-11-12T00:00:00+01:00</updated><id>http://localhost:4000/2022/11/les-portes-du-possible</id><content type="html" xml:base="http://localhost:4000/2022/11/les-portes-du-possible/"><![CDATA[<p>Hier, j’ai lu sur Mastodon que le <strong>Centre Pompidou Metz</strong> organisait actuellement une exposition <strong>« Les portes du possible, Art &amp; Science-Fiction »</strong>. J’aime la <abbr>SF</abbr>, j’aime Metz, j’aime le Centre Pompidou Metz… <strong>Bref, aujourd’hui, j’ai été à Metz</strong>.</p>
 
 <figure>
 	<blockquote class="citation">
@@ -420,7 +657,7 @@
 	</div>
 </div>
 
-<p>Si jamais cette exposition vous intéresse, sachez qu’elle se poursuit jusqu’au 17 avril 2023.</p>]]></content><author><name></name></author><category term="qui-voyage" /><category term="trucs-de-parisien" /><category term="expo" /><category term="metz" /><summary type="html"><![CDATA[Hier, j’ai lu sur Mastodon que le Centre Pompidou Metz organisait actuellement une exposition « Les portes du possible, Art &amp; Science-Fiction ». J’aime la SF, j’aime Metz, j’aime le Centre Pompidou Metz… Bref, aujourd’hui, j’ai été à Metz.]]></summary></entry><entry><title type="html">Une journée à Herrli’Playmo</title><link href="https://www.6x8.org/2022/10/une-journee-a-herrli-playmo/" rel="alternate" type="text/html" title="Une journée à Herrli’Playmo" /><published>2022-10-23T00:00:00+02:00</published><updated>2022-10-23T00:00:00+02:00</updated><id>https://www.6x8.org/2022/10/une-journee-a-herrli-playmo</id><content type="html" xml:base="https://www.6x8.org/2022/10/une-journee-a-herrli-playmo/"><![CDATA[<p><strong>À Herrlisheim, aujourd’hui, c’était expo Playmobil</strong> et c’était une bien belle expo. Des dioramas de toute beauté, dont certains vraiment impressionants.</p>
+<p>Si jamais cette exposition vous intéresse, sachez qu’elle se poursuit jusqu’au 17 avril 2023.</p>]]></content><author><name></name></author><category term="qui-voyage" /><category term="trucs-de-parisien" /><category term="expo" /><category term="metz" /><summary type="html"><![CDATA[Hier, j’ai lu sur Mastodon que le Centre Pompidou Metz organisait actuellement une exposition « Les portes du possible, Art &amp; Science-Fiction ». J’aime la SF, j’aime Metz, j’aime le Centre Pompidou Metz… Bref, aujourd’hui, j’ai été à Metz.]]></summary></entry><entry><title type="html">Une journée à Herrli’Playmo</title><link href="http://localhost:4000/2022/10/une-journee-a-herrli-playmo/" rel="alternate" type="text/html" title="Une journée à Herrli’Playmo" /><published>2022-10-23T00:00:00+02:00</published><updated>2022-10-23T00:00:00+02:00</updated><id>http://localhost:4000/2022/10/une-journee-a-herrli-playmo</id><content type="html" xml:base="http://localhost:4000/2022/10/une-journee-a-herrli-playmo/"><![CDATA[<p><strong>À Herrlisheim, aujourd’hui, c’était expo Playmobil</strong> et c’était une bien belle expo. Des dioramas de toute beauté, dont certains vraiment impressionants.</p>
 
 <p>Pour les enfants, c’était aussi 2 animations, une facile et une difficile, pour trouver quelques figurines dans ces dioramas, et ça nous a fait une chouette activité.</p>
 
@@ -515,7 +752,7 @@
       </li>
     </ul>
   </div>
-</div>]]></content><author><name></name></author><category term="qui-sont-maintenant-alsaciens" /><category term="trucs-de-parisien" /><category term="playmobil" /><summary type="html"><![CDATA[À Herrlisheim, aujourd’hui, c’était expo Playmobil et c’était une bien belle expo. Des dioramas de toute beauté, dont certains vraiment impressionants.]]></summary></entry><entry><title type="html">Ma critique de « Le goût des mochis au kouign amann » de Mary Ann P. Mikael</title><link href="https://www.6x8.org/2022/10/ma-critique-du-gout-des-mochis-au-kouign-amann-de-mary-ann-p-mikael/" rel="alternate" type="text/html" title="Ma critique de « Le goût des mochis au kouign amann » de Mary Ann P. Mikael" /><published>2022-10-12T00:00:00+02:00</published><updated>2022-10-12T00:00:00+02:00</updated><id>https://www.6x8.org/2022/10/ma-critique-du-gout-des-mochis-au-kouign-amann-de-mary-ann-p-mikael</id><content type="html" xml:base="https://www.6x8.org/2022/10/ma-critique-du-gout-des-mochis-au-kouign-amann-de-mary-ann-p-mikael/"><![CDATA[<p><img src="/images/La-gout-des-Mochis-au-Kouign-Amann-Laureat-du-concours-Fyctia-Effet-Papillon.jpg# book2right" alt="" /></p>
+</div>]]></content><author><name></name></author><category term="qui-sont-maintenant-alsaciens" /><category term="trucs-de-parisien" /><category term="playmobil" /><summary type="html"><![CDATA[À Herrlisheim, aujourd’hui, c’était expo Playmobil et c’était une bien belle expo. Des dioramas de toute beauté, dont certains vraiment impressionants.]]></summary></entry><entry><title type="html">Ma critique de « Le goût des mochis au kouign amann » de Mary Ann P. Mikael</title><link href="http://localhost:4000/2022/10/ma-critique-du-gout-des-mochis-au-kouign-amann-de-mary-ann-p-mikael/" rel="alternate" type="text/html" title="Ma critique de « Le goût des mochis au kouign amann » de Mary Ann P. Mikael" /><published>2022-10-12T00:00:00+02:00</published><updated>2022-10-12T00:00:00+02:00</updated><id>http://localhost:4000/2022/10/ma-critique-du-gout-des-mochis-au-kouign-amann-de-mary-ann-p-mikael</id><content type="html" xml:base="http://localhost:4000/2022/10/ma-critique-du-gout-des-mochis-au-kouign-amann-de-mary-ann-p-mikael/"><![CDATA[<p><img src="/images/La-gout-des-Mochis-au-Kouign-Amann-Laureat-du-concours-Fyctia-Effet-Papillon.jpg# book2right" alt="" /></p>
 
 <p>La goût des mochis au kouign amann&lt; est un roman <span lang="en">Feel good</span>. Ce n’est pas un genre que j’affectionne particulièrement mais vu que, comme son nom l’indique assez clairement, il propose un combo quant à mon amour de la Bretagne et ma sincère curiosité vis à vis du Japon. Bref, j’ai tenté.</p>
 
@@ -526,7 +763,7 @@
 	<li><strong>Emmanuel</strong> et son mari, Martin, avaient prévu un tour du Monde pour casser la routine, avec une étape importante, pour Martin, au Japon, où devait les rejoindre sa nièce Alizée. Mais Martin n'est plsu, <strong>Emmanuel est veuf et doit faire son deuil</strong>. Pour l'aider sur ce difficile chemin, son frère décide de forcer les choses, et c'est donc avec sa nièce qu'il va découvrir ce Japon que Martin voulait tant visiter.</li>
 </ul>
 
-<p>Vous devinerez facilement la suite, même si vous aurez, certes, encore quelques détails à découvrir. Ce n’est pas un <em>mauvais</em> roman… mais il n’est pas non plus bon. Un peu trop facile et gentillet à mon goût. J’aime beaucoup la Bretagne et le Japon, mais cette manière de surfer sur ces 2 pays que beaucoup, comme moi, affectionnent, est vraiment très visible. Trop.</p>]]></content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Ma critique de « Chien 51 » de Laurent Gaudé</title><link href="https://www.6x8.org/2022/10/ma-critique-de-chien-51-de-laurent-gaude/" rel="alternate" type="text/html" title="Ma critique de « Chien 51 » de Laurent Gaudé" /><published>2022-10-12T00:00:00+02:00</published><updated>2022-10-12T00:00:00+02:00</updated><id>https://www.6x8.org/2022/10/ma-critique-de-chien-51-de-laurent-gaude</id><content type="html" xml:base="https://www.6x8.org/2022/10/ma-critique-de-chien-51-de-laurent-gaude/"><![CDATA[<p><img src="/images/couv-Chien-51.jpg# book2right" alt="" /></p>
+<p>Vous devinerez facilement la suite, même si vous aurez, certes, encore quelques détails à découvrir. Ce n’est pas un <em>mauvais</em> roman… mais il n’est pas non plus bon. Un peu trop facile et gentillet à mon goût. J’aime beaucoup la Bretagne et le Japon, mais cette manière de surfer sur ces 2 pays que beaucoup, comme moi, affectionnent, est vraiment très visible. Trop.</p>]]></content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Ma critique de « Chien 51 » de Laurent Gaudé</title><link href="http://localhost:4000/2022/10/ma-critique-de-chien-51-de-laurent-gaude/" rel="alternate" type="text/html" title="Ma critique de « Chien 51 » de Laurent Gaudé" /><published>2022-10-12T00:00:00+02:00</published><updated>2022-10-12T00:00:00+02:00</updated><id>http://localhost:4000/2022/10/ma-critique-de-chien-51-de-laurent-gaude</id><content type="html" xml:base="http://localhost:4000/2022/10/ma-critique-de-chien-51-de-laurent-gaude/"><![CDATA[<p><img src="/images/couv-Chien-51.jpg# book2right" alt="" /></p>
 
 <p><strong>J’adore Laurent Gaudé depuis bien longtemps</strong>, depuis <strong>« La mort du roi Tsongor »</strong> pour être précis. C’est à dire depuis 20&nbsp;ans puisque c’est le Goncourt des lycéens 2002.</p>
 <p>Deux années plus tard, j’ai tu et toujours autant aimé <strong>« Le soleil des Scorta »</strong>, Prix Goncourt 2004. Je l'ai donc lu voici 18&nbsp;ans... et pourtant je sens encore le soleil sur ma peau quand j’y pense. <strong>Un vrai coup de cœur</strong>.</p>
@@ -544,7 +781,7 @@
 
 <hr />
 
-<p>Retrouvez <a href="https://www.senscritique.com/livre/chien_51/critique/280229610">cette critique</a> sur <strong>Sens Critique</strong> où vous pouvez aussi <a href="http://www.senscritique.com/Arnaud_Malon">me retrouver</a> !</p>]]></content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><category term="coup-de-coeur" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Joyeux anniversaire mon Mathias 🎂 🥳 #10ans</title><link href="https://www.6x8.org/2022/10/Joyeux-anniversaire-mon-mathias/" rel="alternate" type="text/html" title="Joyeux anniversaire mon Mathias 🎂 🥳 #10ans" /><published>2022-10-09T00:00:00+02:00</published><updated>2022-10-09T00:00:00+02:00</updated><id>https://www.6x8.org/2022/10/Joyeux-anniversaire-mon-mathias</id><content type="html" xml:base="https://www.6x8.org/2022/10/Joyeux-anniversaire-mon-mathias/"><![CDATA[]]></content><author><name></name></author><category term="trucs-instagrammes" /><category term="miam" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">(mon) Paris Web 2022</title><link href="https://www.6x8.org/2022/10/mon-paris-web-2022/" rel="alternate" type="text/html" title="(mon) Paris Web 2022" /><published>2022-10-08T00:00:00+02:00</published><updated>2022-10-08T00:00:00+02:00</updated><id>https://www.6x8.org/2022/10/mon-paris-web-2022</id><content type="html" xml:base="https://www.6x8.org/2022/10/mon-paris-web-2022/"><![CDATA[<p>Alors que d'autres sont en train de profiter des ateliers, moi je prépare le gâteau d'anniversaire de mon fils cadet (<strike><i>je vous mettrais une photo demain</i></strike> <a href="/2022/10/Joyeux-anniversaire-mon-mathias/">la preuve</a>). Néanmoins, je vais tâcher de prendre le temps pour faire mon petit retour sur l'édition 2022 de Paris Web, tant que c'est encore bien frais dans ma tête.</p>
+<p>Retrouvez <a href="https://www.senscritique.com/livre/chien_51/critique/280229610">cette critique</a> sur <strong>Sens Critique</strong> où vous pouvez aussi <a href="http://www.senscritique.com/Arnaud_Malon">me retrouver</a> !</p>]]></content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><category term="coup-de-coeur" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Joyeux anniversaire mon Mathias 🎂 🥳 #10ans</title><link href="http://localhost:4000/2022/10/Joyeux-anniversaire-mon-mathias/" rel="alternate" type="text/html" title="Joyeux anniversaire mon Mathias 🎂 🥳 #10ans" /><published>2022-10-09T00:00:00+02:00</published><updated>2022-10-09T00:00:00+02:00</updated><id>http://localhost:4000/2022/10/Joyeux-anniversaire-mon-mathias</id><content type="html" xml:base="http://localhost:4000/2022/10/Joyeux-anniversaire-mon-mathias/"><![CDATA[]]></content><author><name></name></author><category term="trucs-instagrammes" /><category term="miam" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">(mon) Paris Web 2022</title><link href="http://localhost:4000/2022/10/mon-paris-web-2022/" rel="alternate" type="text/html" title="(mon) Paris Web 2022" /><published>2022-10-08T00:00:00+02:00</published><updated>2022-10-08T00:00:00+02:00</updated><id>http://localhost:4000/2022/10/mon-paris-web-2022</id><content type="html" xml:base="http://localhost:4000/2022/10/mon-paris-web-2022/"><![CDATA[<p>Alors que d'autres sont en train de profiter des ateliers, moi je prépare le gâteau d'anniversaire de mon fils cadet (<strike><i>je vous mettrais une photo demain</i></strike> <a href="/2022/10/Joyeux-anniversaire-mon-mathias/">la preuve</a>). Néanmoins, je vais tâcher de prendre le temps pour faire mon petit retour sur l'édition 2022 de Paris Web, tant que c'est encore bien frais dans ma tête.</p>
 
 <p><strong>Encore une fois, ce fut une super expérience</strong>. Des conférences toujours (souvent&nbsp;?) de très bonne facture (allez, on va dire toujours mais que certains m'intéressent moins, moi...) et une organisation au top. Un évènement qui en est à sa 17<sup>e</sup> édition, mais qui reste fidèle à ses valeurs&nbsp;, accessible et inclusif (traduction en <abbr title="Langue des Signes">LSF</abbr>, vélotypie, etc.), ce qui s'est aussi toujours ressenti dans le thème des conférences qui ont toujours fait bonne place à l'accessibilité numérique mais aussi à l'éthique qu'on peut attendre des travailleurs du web. Mais c'est aussi un évènement qui colle à l'actualité, ce qui se ressent cette année encore avec nombre de sujet autour du numérique responsable (<span lang="en">Green <abbr>IT</abbr></span>) mais aussi de la <span lang="en">Privacy</span> (d'actualité on notera qu'éco-conception et respect de la vie privée sont depuis longtemps des sujets évoqués à Paris Web).</p>
 
@@ -968,111 +1205,4 @@ https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex%3A32019L0882">Une 2<su
 <p>Comme d'habitude, j'ai aussi beaucoup aimé pouvoir croiser collègues, amis, connaissances, orateurs et auditeurs... bref, nombre de gens que j'apprécie mais que je ne vois pas toujours assez souvent, pouvoir discuter de sujets web (mais aussi de livres et ça c'est cool).</p>
 <p><mark>Paris&nbsp;Web est plus que jamais nécessaire et indispensable</mark>. <strong>Vivement l'an prochain&nbsp;! <mark>Longue vie à Paris&nbsp;Web&nbsp;!</mark></strong></p>
 
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="trucs-de-webmaster" /><summary type="html"><![CDATA[Alors que d'autres sont en train de profiter des ateliers, moi je prépare le gâteau d'anniversaire de mon fils cadet (je vous mettrais une photo demain la preuve). Néanmoins, je vais tâcher de prendre le temps pour faire mon petit retour sur l'édition 2022 de Paris Web, tant que c'est encore bien frais dans ma tête.]]></summary></entry><entry><title type="html">Ma critique de « The Hitchhiker’s Guide to the Galaxy (H2G2) » de Douglas Adams</title><link href="https://www.6x8.org/2022/09/ma-critique-du-guide-du-routard-galactique-de-douglas-adams/" rel="alternate" type="text/html" title="Ma critique de « The Hitchhiker’s Guide to the Galaxy (H2G2) » de Douglas Adams" /><published>2022-09-27T00:00:00+02:00</published><updated>2022-09-27T00:00:00+02:00</updated><id>https://www.6x8.org/2022/09/ma-critique-du-guide-du-routard-galactique-de-douglas-adams</id><content type="html" xml:base="https://www.6x8.org/2022/09/ma-critique-du-guide-du-routard-galactique-de-douglas-adams/"><![CDATA[<p><img src="/images/9781529034523.jpg# book2right" alt="" />J’avais déjà essayé de vous expliquer <a href="/2016/10/la-vie-lunivers-et-le-reste/">La vie, l’univers et le reste</a> et donc pourquoi « 6 x 8 = 42 », et donc de vous présenter <strong>le Guide du routard galactique</strong> (<a href="https://fr.wikipedia.org/wiki/Le_Guide_du_voyageur_galactique_(roman)#Titre_en_fran%C3%A7ais">n’en déplaise au routard</a>, je continuerais de l’appeler comme ça, na !).</p>
-
-<p>Cet été, j’ai commencé à le re-re-relire, et c’est donc l’occasion d’écrire une (petite ?) critique de ce premier volume :)</p>
-
-<p><strong>Je vous fais le pitch</strong> de ce premier tome (d’une trilogie qui compte, je le rappelle, 5 volumes, c’est donc une trilogie unique en son genre) : ce n’est pas, à proprement parler, l’histoire du Guide du Routard Galactique mais celle d’<strong>Arthur Dent</strong>. Arthur est anglais (personne n’est parfait) et bien embêté car <strong>sa maison va être détruite pour laisser place à une bretelle d’autoroute</strong>. C’était prévu et annoncé… dans une cave d’un bâtiment officiel de la ville d’à côté, certes… mais nul n’est censé ignorer la loi et les bulldozers sont devant sa maison, prêt à la détruire.</p>
-
-<blockquote class="citation" lang="en">
-	<p>‘This must be Thursday,’ said Arthur to himself, sinking low over his beer, ‘I never could get the hang of Thursdays.’</p>
-</blockquote>
-
-<figure class="center">
-	<img src="/images/HHGTTG-Logo.jpg" alt="Arthur et Ford" />
-	<figcaption>Arhur et Ford</figcaption>
-</figure>
-
-<p><strong>Ford Perfect</strong>, son meilleur ami arrive et lui annonce alors que <strong>la Terre elle-même va être détruite pour laisser place à une autoroute hyper-spatiale</strong>. C’était prévu et annoncé … sur une planète de Proxima du Centaure, certes… mais nul n’est censé ignorer la loi.</p>
-
-<blockquote class="citation" lang="en">
-	<div>
-		<p>People of Earth, your attention please,</p>
-		<p>This is Prostetnic Vogon Jeltz of the Galactic Hyperspace Planning Council,’ the voice continued. ‘As you will no doubt be aware, the plans for development of the outlying regions of the Galaxy require the building of a hyperspatial express route through your star system, and regrettably your planet is one of those scheduled for demolition. The process will take slightly less than two of your Earth minutes. Thank you. […]</p>
-		<p>There’s no point in acting all surprised about it. All the planning charts and demolition orders have been on display in your local planning department in Alpha Centauri for fifty of your Earth years, so you’ve had plenty of time to lodge any formal complaint and it’s far too late to start making a fuss about it now.</p>
-		<p>What do you mean you’ve never been to Alpha Centauri? For Heavens’s sake, mankind, it’s only four light-years away, you know. I’m sorry, but if you can’t be bothered to take an interest in local affairs that’s your own lookout.</p>
-	</div>
-</blockquote>
-
-<p>Heureusement, il se trouve que Ford est un extra-terrestre qui était sur Terre pour mettre à jour l’entrée correspondante du Guide du Routard Galactique.</p>
-
-<p><br />
-<img src="/images/the-ultimate-hitchhikers-guide-to-the-galaxy-lunchtime-lit-with-mel.jpg" alt="" class="left" width="200" /></p>
-
-<blockquote class="citation" lang="en">
-	<ul>
-		<li>‘What is it?’ asked Arthur.</li>
-		<li>‘The Hitchhiker’s Guide to the Galaxy. It’s a sort of electronic book. It tells you everything you need to know about anything. That’s its job.’</li>
-		<li>Arthur turned it over nervously in his hands.</li>
-		<li>‘I like the cover,’ he said. ‘Don’t Panic. It’s the first helpful or intelligible thing anybody’s said to me all day.’</li>
-	</ul>
-</blockquote>
-
-<p class="nof">Fort heureusement (pour eux en tout cas), Arthur et Ford vont pouvoir quitter la Terre à temps en faisant de l’astro-stop, munis comme il se doit d’une serviette rose.</p>
-
-<blockquote class="citation" lang="en">
-	<p>More importantly, a towel has immense psychological value. For some reason, if a strag (strag: non-hitchhiker) discovers that a hitchhiker has his towel with him, he will automatically assume that he is also in possession of a toothbrush, face flannel, soap, tin of biscuits, flask, compass, map, ball of string, gnat spray, wet-weather gear, space suit, etc., etc. Furthermore, the strag will then happily lend the hitchhiker any of these or a dozen other items that the hitchhiker might accidentally have ‘lost’. What the strag will think is that any man who can hitch the length and breadth of the galaxy, rough it, slum it, struggle against terrible odds, win through, and still know where his towel is is clearly a man to be reckoned with.</p>
-</blockquote>
-
-<p>Ceci n’est que le début de leurs aventures. Au fil du roman, outre Arthur et Ford, vous croiserez nombre d’autres personnages, tous plus barrés les un que les autres :</p>
-
-<h2>Les Vogons</h2>
-<p>Ce sont eux qui ont détruit la Terre. Assez antipathiques donc, mais aussi grands (et particulièrement mauvais) poètes.</p>
-
-<blockquote class="citation">
-	<div>
-		<p>Here is what to do if you want to get a lift from a Vogon: forget it. They are one of the most unpleasant races in the Galaxy – not actually evil, but bad-tempered, bureaucratic, officious and callous. They wouldn’t even lift a finger to save their own grandmothers from the Ravenous Bugblatter Beast of Traal without orders signed in triplicate, sent in, sent back, queried, lost, found, subjected to public inquiry, lost again, and finally buried in soft peat for three months and recycled as firelighters.</p>
-		<p>‘The best way to get a drink out of a Vogon is to stick your finger down his throat, and the best way to irritate him is to feed his grandmother to the Ravenous Bugblatter Beast of Traal.</p>
-	</div>
-</blockquote>
-
-<figure class="center">
-	<img src="/images/guide_entry__vogon_by_alexhart_d5d39tx-fullview.jpg" alt="" />
-</figure>
-
-<h2>Zaphod Beeblebrox</h2>
-<p>Zaphor est un semi-cousin de Ford, et il est Président de la Galaxie. Zaphod est un peu mégalo sur les bords. Ah, et il a 2&nbsp;têtes et 3&nbsp;bras.</p>
-
-<h2>Trillian (Tricia McMillan)</h2>
-<p>Trillian est une terrienne, comme Arthur, qu’elle avait d’ailleurs déjà croisé lors d’une soirée à Islington… mais elle en était partie avec Zaphod, ce qui lui a permis d’elle-aussi survivre à la destruction de la Terre.</p>
-
-<h2>Marvin</h2>
-<p>Maervin est un androïde paranoïde. Suprêmement puissant et intelligent… mais aussi très très déprimé.</p>
-
-<h2>Le Cœur en Or</h2>
-<p>Il s'agit du vaisseau dans lequel Zaphod et Trillian naviguent. Sa propulsion est assurée par un générateur d’improbabilité infinie. C’est-à-dire que dès qu’il est enclenché, par un système d’improbabilité infinie, le vaisseau se trouve simultanément localisé en tout point de la galaxie ce qui, en calculant l’improbabilité qui nous intéresse, permet de s’y rendre instantanément.</p>
-
-<blockquote class="citation" lang="en">
-	<div>
-		<p>The principle of generating small amounts of finite improbability by simply hooking the logic circuits of a Bambleweeny 57 Sub-Meson Brain to an atomic vector plotter suspended in a strong Brownian Motion producer (say a nice hot cup of tea) were of course well understood […]. [One] thing [scientists] couldn’t stand was the perpetual failure they encountered in trying to construct a machine which could generate the infinite improbability field needed to flip a spaceship across the mind-paralyzing distances between the farthest stars, and in the end they grumpily announced that such a machine was virtually impossible.</p>
-		<p>Then, one day, a student […] found himself reasoning this way:</p>
-		<p>If, he thought to himself, such a machine is a virtual impossibility, then it must logically be a finite improbability. So all I have to do in order to make one is to work out exactly how improbable it is, feed that figure into the finite improbability generator, give it a fresh cup of really hot tea… and turn it on!</p>
-	</div>
-</blockquote>
-
-<h2>Bref...</h2>
-
-<p>C'est <strong>un livre «&nbsp;total foutraque&nbsp;»</strong>, vous l’aurez compris, et d’une richesse incroyable. Outre ces personnages tous plus improbables que les autres, Douglas Adams a inventé une univers d’une profondeur folle.</p>
-
-<p>Bref, vous l’aurez compris : <strong>j’aime toujours autant ce livre et j’ai toujours autant de mal à m’arrêter de le lire, et de rire, quand je commence</strong>. Du coup, bientôt, la critique des tomes précédents ;)</p>
-
-<h2>Le Guide est exact, la réalité est bien souvent erronée</h2>
-
-<p>En bonus, voici  comment commence le Guide du Routard Galactique (pas le roman de Douglas Adams, le Guide pour lequel travaille Ford, suivez un peu !) :</p>
-
-<blockquote class="citation" lang="en">
-	<p>The introduction begins like this: ‘Space,’ it says, ‘is big. Really big. You just won’t believe how vastly hugely mindbogglingly big it is. I mean you may think it’s a long way down the road to the chemist, but that’s just peanuts to space. Listen . . .’ and so on.</p>
-</blockquote>
-
-<p>Dans nombre de romans, films ou series de <abbr title="Science-Fiction">SF</abbr>, personne ne se pose la question de comment des personnes qui ne parlent pas la même langue peuvent facilement communiquer. Dans le <strong lang="en">Doctor Who</strong>, on sait que c’est grâce au Tardis<sup>*</sup> mais Douglas Adams a aussi une solution au problème : le poisson Babel.</p>
-
-<p>GPPHjzJP4t53XBAdMqSwDL.jpg</p>
-
-<blockquote class="citation" lang="en">
-	<p>The Babel fish,’ said The Hitchhiker’s Guide to the Galaxy quietly, ‘is small, yellow and leech-like, and probably the oddest thing in the Universe. It feeds on brainwave energy received not from its own carrier but from those around it. It absorbs all unconscious mental frequencies from this brainwave energy to nourish itself with. It then excretes into the mind of its carrier a telepathic matrix formed by combining the conscious thought frequencies with nerve signals picked up from the speech centres of the brain which has supplied them. The practical upshot of all this is that if you stick a Babel fish in your ear you can instantly understand anything said to you in any form of language. The speech patterns you actually hear decode the brain-wave matrix which has been fed into your mind by your Babel fish.</p>
-</blockquote>
-
-<hr />
-
-<p><sup>*</sup> On notera par ailleurs que les univers de <span lang="en">Doctor Who</span> et du Routard sont assez proches. Douglas Adams a d’ailleurs écrit les scénarios de plusieurs épisodes (d’avant le <span lang="en">reboot</span> de la série évidemment).
-</p>]]></content><author><name></name></author><category term="trucs-critiques" /><category term="critique" /><category term="livre" /><category term="coup-de-coeur" /><summary type="html"><![CDATA[J’avais déjà essayé de vous expliquer La vie, l’univers et le reste et donc pourquoi « 6 x 8 = 42 », et donc de vous présenter le Guide du routard galactique (n’en déplaise au routard, je continuerais de l’appeler comme ça, na !).]]></summary></entry></feed>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="trucs-de-webmaster" /><summary type="html"><![CDATA[Alors que d'autres sont en train de profiter des ateliers, moi je prépare le gâteau d'anniversaire de mon fils cadet (je vous mettrais une photo demain la preuve). Néanmoins, je vais tâcher de prendre le temps pour faire mon petit retour sur l'édition 2022 de Paris Web, tant que c'est encore bien frais dans ma tête.]]></summary></entry></feed>

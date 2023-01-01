@@ -659,6 +659,14 @@ nav {
         height: 100%;
       }
     }
+    mark {
+      a {
+        color: darken( desaturate(@primary, 40%), 15%);
+        &::after {
+          background: rgba(@primary, 0.42);
+        }
+      }
+    }
     figure, .card {
       margin: 1rem auto;
       border-radius: .5rem;
