@@ -745,6 +745,15 @@ nav {
       figcaption {
         margin-bottom: 1rem;
       }
+      @media screen and (max-device-width: @md-medium) {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        img {
+          height: auto;
+        }
+      }
     }
   }
 
